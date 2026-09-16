@@ -120,3 +120,5 @@ outputs/resultados/conclusiones.txt
 Una segunda persona debe poder clonar el repositorio, crear un entorno virtual limpio, instalar `requirements.txt` y ejecutar el análisis siguiendo este README.
 
 > Antes de la entrega final, si instalas dependencias adicionales, actualiza `requirements.txt` con `pip freeze > requirements.txt`.
+
+Proyecto preparado para ejecución reproducible en entorno local.
