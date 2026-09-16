@@ -1,0 +1,1079 @@
+﻿PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,3,"Davies, Mr. Samuel",M,25.5,0,0,SOTON 28062,8.04,,s
+2,0,3,"Brown, Mr. Miguel",MALE,0.7,1,0,SOTON 99913,3.15,,s
+3,1,3,"Lewis, Mrs. Alice",female,33.4,0,0,W./C. 38266,1.61,, Q 
+4,1,3,"Clark, Mrs. María",female,30.4,1,1,LINE 40522,9.30,,Southampton
+5,1,1,"Young, Mrs. Alice",f,33.1,0,0,A/5 73103,165.10,,Cherbourg
+6,0,3,"Evans, Mrs. María",Female,unknown,1,0,LINE 51457,12.59,,Cherbourg
+7,0,3,"Smith, Mr. James", male ,27.6,0,0,W./C. 27644,9.13,, S 
+8,1,1,"Martínez, Mr. Luis",M,unknown,0,1,W./C. 18685,101.05,,s
+9,1,1,"Thomas, Miss. Elena",Female,8.3,1,0,W./C. 70293,39.65,,S
+10,1,1,"King, Mr. Carlos",MALE,unknown,1,0,A/5 64030,155.58,,S
+11,1,2nd,"Johnson, Miss. Edith",F,17.4,0,0,SOTON 69065,9.93,,southampton
+12,1,2,"Martínez, Miss. Isabella",female,11.4,0,0,W./C. 67105,13.69,E150, S 
+13,0,1,"Wright, Mr. George",Male,34.9,0,0,PC 58799,160.79,,Cherbourg
+14,0,2,"Johnson, Mr. Miguel", male ,33.2,0,0,LINE 79540,38.37,,
+15,0,3,"García, Mr. Charles",Male,0.3,0,4,A/5 77528,13.75,,Southampton
+16,0,3,"Hall, Mr. Carlos",male,33.3,3,0,LINE 5903,24.42,,C
+17,0,3,"Wilson, Mr. John",Male,19.5,0,0,C.A. 63583,17.14,,Southampton
+18,1,2,"Wilson, Mrs. Mary",Female,44.3,1,0,W./C. 70986,16.89,,C
+19,1,2,"Lewis, Mr. Carlos",m,33.5,0,0,A/5 15079,18.34,,S
+20,0,1,"Young, Mr. Thomas", male ,23.5,2,0,A/5 43789,80.56,,Southampton
+21,0,1,"García, Mr. James",Male,37.3,2,0,A/5 43591,63.81,C93, S 
+22,0,3,"Johnson, Mr. Robert",male,0.3,0,0,STON/O2 90517,19.74,,southampton
+23,0,1,"Martin, Mr. Thomas", male ,33.2,0,1,A/5 48792,34.50,,s
+24,0,3,"Wright, Mr. Alejandro",m,unknown,1,2,C.A. 54332,11.08,,queenstown
+25,0,1,"Smith, Mrs. María",f,35.1,1,2,STON/O2 60766,175.59,,S
+26,0,3,"Wright, Mr. Luis",MALE,,1,0,SOTON 66616,12.71,,southampton
+27,1,2,"Brown, Mr. Samuel", male ,41.6,0,0,LINE 11083,60.02,F158,queenstown
+28,1,3,"Lewis, Mr. Miguel",M,21.9,0,0,SOTON 42856,6.97,,s
+29,0,3,"Hall, Mr. William",Male,5.5,0,0,W./C. 83860,9.39,, S 
+30,0,3,"King, Mr. Alejandro", male ,32.6,0,1,C.A. 53925,49.79,,C
+31,0,3,"King, Mr. Carlos",MALE,21.2,0,0,SOTON 9809,13.51,,Cherbourg
+32,1,3,"Green, Miss. Anna",f,7.9,1,0,PC 83383,8.56,, S 
+33,1,3,"Allen, Mrs. Alice",Female,25.4,2,0,W./C. 10179,17.27,,Southampton
+34,0,3,"Lewis, Mr. Daniel",M,26.8,0,0,C.A. 53341,7.92,,S
+35,0,3,"Hernández, Mr. William",Male,15.6,0,0,PC 8772,7.84,,Southampton
+36,0,3,"Smith, Miss. Margaret",female,20.6,1,0,PC 27251,38.31,,s
+37,0,3,"Smith, Mrs. Elena", female ,25.8,0,0,SOTON 31550,13.46,,
+38,1,1,"Davies, Mrs. Lucía", female ,34.5,3,2,SOTON 45328,108.33,,S
+39,0,3,"King, Mr. George",M,6.2,0,2,STON/O2 19047,4.98,,Southampton
+40,1,3,"Thomas, Mr. Alejandro",MALE,49.0,0,0,STON/O2 99903,20.75,,S
+41,1,3,"Taylor, Mr. Henry",male,15.7,0,4,SOTON 52495,9.91,,southampton
+42,1,2,"Green, Miss. Florence",female,2.6,0,1,A/5 64006,45.35,,C
+43,0,3,"Hernández, Mr. Edward",MALE,42.3,2,0,PC 5813,11.59,,s
+44,0,3,"Clark, Mr. Charles",m,46.4,0,0,C.A. 67425,25.21,,southampton
+45,1,1,"García, Mrs. Florence",f,48.7,0,0,LINE 60375,67.83,D16,S
+46,0,3,"Wilson, Mr. Alejandro",MALE,null,0,0,PC 84577,5.17,, S 
+47,0,3,"López, Mr. James",M,24.3,1,0,STON/O2 38967,5.00,,s
+48,0,3,"Lewis, Mrs. María",female,33.0,0,1,STON/O2 74326,8.91,,southampton
+49,1,1,"King, Mrs. Margaret", female ,,0,0,STON/O2 35612,44.91,, C 
+50,0,2,"Hall, Mr. Alejandro",MALE,unknown,0,2,W./C. 44621,60.27,,Cherbourg
+51,0,3,"Smith, Mr. Samuel",Male,49.8,0,1,LINE 69077,30.23,,s
+52,1,3,"Wright, Mrs. Helen",F,31.6,0,0,W./C. 65769,34.48,,S
+53,1,1,"López, Mr. John",MALE,,0,1,LINE 41434,218.27,,S
+54,1,3,"Martínez, Mrs. Alice",f,38.0,0,0,SOTON 8544,11.93,, S 
+55,1,3,"Allen, Miss. Margaret",female,13.4,0,0,PC 98538,12.01,,s
+56,1,3,"Walker, Miss. Anna",FEMALE,24.3,1,0,STON/O2 94924,6.99,,Cherbourg
+57,1,1,"Evans, Mrs. Florence",FEMALE,32.7,0,0,STON/O2 34639,101.10,,Southampton
+58,0,3,"Green, Mr. Luis",m,,3,0,A/5 2491,13.55,,Cherbourg
+59,1,3,"Ramírez, Mr. Luis",MALE,unknown,2,0,STON/O2 64418,9.21,, C 
+60,0,3,"King, Mr. Samuel",m,28.4,1,0,C.A. 93673,12.34,,C
+61,1,2,"Young, Mrs. Ethel",FEMALE,26.0,0,0,A/5 96724,28.15,,Cherbourg
+62,0,3,"Lewis, Mr. Robert",M,38.5,0,0,PC 78602,18.70,, S 
+63,0,3,"Roberts, Mr. Samuel", male ,34.5,0,0,A/5 29488,13.65,,
+64,1,3,"Martin, Mrs. Camila",f,34.0,2,2,A/5 71593,8.96,, S 
+65,1,1,"Wright, Mrs. Emily",Female,33.1,1,0,A/5 99797,70.39,,Southampton
+66,0,2,"Green, Mrs. Elizabeth",Female,34.5,0,0,LINE 77539,77.75,,Southampton
+67,1,3,"Clark, Mr. Samuel",Male,,1,0,LINE 78980,10.00,,Q
+68,0,2,"Young, Mr. Carlos",MALE,27.2,0,0,PC 43940,32.05,, S 
+69,1,3,"Lewis, Mr. Miguel",m,49.1,2,0,W./C. 31420,10.15,,southampton
+70,0,3,"Young, Mr. Henry",MALE,50.2,0,0,PC 10323,6.24,,Southampton
+71,1,3,"Roberts, Mr. Edward",M,N/A,0,0,LINE 98082,23.13,,S
+72,1,2,"Martin, Mrs. María",F,51.9,0,0,W./C. 76798,25.85,,Southampton
+73,1,1,"Brown, Mrs. Sofía",Female,38.7,1,1,A/5 12475,270.52,,Southampton
+74,0,3,"Martin, Mr. William", male ,unknown,5,0,A/5 62382,6.04,,s
+75,0,1,"Green, Mr. George",MALE,14.4,1,0,A/5 62016,161.34,,southampton
+76,0,1,"Allen, Mr. Edward", male ,,1,0,W./C. 42013,71.67,,southampton
+77,0,1,"Wilson, Mr. Henry",MALE,41.2,1,0,A/5 7628,77.60,, S 
+78,0,3,"Evans, Mr. Henry",MALE,47.7,1,0,C.A. 39992,28.65,,q
+79,1,1,"Martínez, Mr. Charles",MALE,null,0,0,A/5 52087,95.81,, Q 
+80,0,3,"Davies, Mr. Henry",MALE,unknown,0,0,STON/O2 78056,20.72,,s
+81,1,2,"Scott, Mrs. Lucía",f,43.0,0,2,STON/O2 37733,25.10,,Southampton
+82,0,3,"Green, Mr. Luis",Male,33.0,1,1,W./C. 56627,4.57,, S 
+83,0,3,"Brown, Mrs. Camila",Female,48.9,0,0,W./C. 82842,5.18,,S
+84,0,3,"Lewis, Mr. Arthur", male ,38.8,0,0,LINE 95125,10.70,,S
+85,0,3,"Davies, Mrs. Elizabeth",F,44.0,0,0,A/5 44018,13.64,,Southampton
+86,0,1,"Green, Mr. Samuel",MALE,37.4,0,1,C.A. 81033,71.82,,Cherbourg
+87,0,3,"Wilson, Mr. Robert",male,15.1,2,0,PC 63139,10.43,, C 
+88,1,1,"Allen, Mrs. Emily",f,null,0,0,STON/O2 9971,100.46,,
+89,1,3,"Davies, Mr. Carlos",Male,25.5,0,0,LINE 28445,14.99,,s
+90,0,1,"Wright, Mr. John",m,53.0,1,N/A,LINE 27958,112.20,,cherbourg
+91,0,3,"Young, Mr. George",m,25.3,0,0,PC 19813,6.43,,S
+92,1,3,"Walker, Mr. Samuel",MALE,21.8,0,0,C.A. 40976,10.85,,s
+93,1,3,"Walker, Mr. Carlos", male ,38.8,0,0,C.A. 84986,15.87,,c
+94,1,3,"Thomas, Mr. Carlos",MALE,49.6,0,0,W./C. 99260,12.53,,S
+95,0,2,"Brown, Mr. Thomas",male,37.3,0,0,PC 61540,23.88,,Southampton
+96,0,2,"Walker, Mr. William",m,59.0,0,0,LINE 36826,36.46,,s
+97,0,3,"Evans, Mr. Daniel",male,26.1,1,0,LINE 7590,12.04,,Southampton
+98,0,2,"Thomas, Mr. Miguel", male ,46.8,1,0,PC 92889,56.37,, S 
+99,0,3,"Hall, Mr. George",m,9.1,2,0,W./C. 17950,21.54,,southampton
+100,1,3,"Evans, Mr. Arthur",Male,26.8,0,0,C.A. 87340,17.41,,cherbourg
+101,0,3,"Walker, Miss. Isabella",female,21.6,0,0,W./C. 82569,18.67,,Queenstown
+102,1,3,"Hall, Mr. Samuel",Male,5.4,0,0,W./C. 93072,6.41,,Southampton
+103,1,3,"Ramírez, Mr. George",Male,22.3,2,0,W./C. 60169,9.75,, S 
+104,1,3,"García, Mrs. Ethel",F,29.9,0,1,C.A. 73808,18.85,,Southampton
+105,0,3,"Brown, Mr. Charles",MALE,21.6,0,0,A/5 95632,7.88,,southampton
+106,0,3,"Taylor, Mr. George",MALE,70.3,0,0,PC 9308,2.98,,Cherbourg
+107,1,3,"Roberts, Mrs. Margaret",Female,59.3,2,0,PC 88990,15.41,,southampton
+108,1,1,"King, Mrs. Lucía",female,null,1,-1,W./C. 35069,56.83,A31, S 
+109,0,2,"Wright, Mr. Edward",Male,21.5,0,0,A/5 27144,56.34,, S 
+110,0,3,"Davies, Mr. Arthur",Male,34.8,1,1,C.A. 48405,19.63,, S 
+111,1,3,"Hernández, Miss. Anna",female,5.2,0,1,W./C. 13471,10.86,,Southampton
+112,1,1,"Wright, Miss. María",Female,3.8,2,0,LINE 88873,165.15,,S
+113,0,3,"Lewis, Mr. James",Male,,0,3,PC 55781,9.19,, S 
+114,0,1,"Allen, Mr. Samuel",Male,26.2,0,1,PC 90222,248.39,, S 
+115,1,3,"Brown, Mr. James",male,31.4,0,0,W./C. 1461,11.79,, S 
+116,1,3,"Green, Miss. Elizabeth",female,,0,0,PC 29010,15.40,,S
+117,0,2,"Davies, Miss. Lucía",F,19.8,0,0,C.A. 78056,34.23,,Queenstown
+118,1,3,"Allen, Mrs. Alice",f,-3,0,0,PC 5908,14.43,, S 
+119,0,2,"Roberts, Miss. Margaret",F,23.7,0,0,A/5 72347,18.22,F61,s
+120,0,3,"Davies, Mr. Alejandro", male ,27.0,1,2,STON/O2 34347,13.70,,Cherbourg
+121,0,2,"Scott, Mr. William",male,31.5,0,0,LINE 16575,43.98,,southampton
+122,1,3,"Hall, Mrs. Edith", female ,N/A,0,3,PC 62471,12.40,,C
+123,1,1,"Young, Mrs. Ethel",female,44.7,0,1,W./C. 83414,85.00,,southampton
+124,0,3,"Evans, Mr. Arthur", male ,25.5,0,0,W./C. 70333,18.56,,c
+125,0,2,"Wright, Mr. James",m,30.1,0,0,C.A. 73728,15.79,, S 
+126,1,1,"King, Mr. Henry",Male,23.2,0,0,STON/O2 44703,41.73,,s
+127,0,3,"Martin, Mr. Edward",Male,39.7,4,0,SOTON 42210,23.70,,S
+128,0,2,"Ramírez, Mrs. Emily",FEMALE,26.3,1,2,PC 22622,36.06,,southampton
+129,no,3,"Wilson, Mrs. Anna",F,39.9,4,0,LINE 39572,16.51,, S 
+130,0,2nd,"Young, Mr. James", male ,34.8,0,0,W./C. 22154,13.15,,southampton
+131,0,1,"Smith, Mr. Arthur", male ,39.5,0,0,SOTON 69960,253.61,C20,Q
+132,0,1,"Hernández, Mr. Miguel",m,null,2,0,SOTON 5875,113.03,,s
+133,0,2,"Martin, Miss. Mary",female,17.3,0,0,STON/O2 25319,33.08,, S 
+134,0,2,"Davies, Mrs. María",female,43.8,0,0,STON/O2 15498,64.37,,
+135,0,3,"Johnson, Mr. Arthur",male,24.9,0,2,LINE 99180,21.77,,southampton
+136,0,2,"Clark, Mr. James", male ,56.1,many,0,STON/O2 78176,21.60,,
+137,0,1,"Martínez, Mr. John",M,43.1,1,,A/5 75907,63.38,,southampton
+138,1,3,"King, Mrs. María",female,26.3,1,0,LINE 79557,3.87,,s
+139,0,2,"Green, Mr. Henry",m,22.6,0,1,A/5 80291,22.84,E17,q
+140,1,1,"Hall, Mr. Edward",MALE,12.7,2,0,C.A. 16390,81.24,C87,southampton
+141,0,3,"Davies, Mr. Carlos",male,27.1,0,2,LINE 87953,18.18,, C 
+142,0,2,"King, Mr. Henry",M,null,0,0,W./C. 86628,31.16,, S 
+143,1,3,"Wilson, Mr. Arthur",m,31.6,0,0,STON/O2 89912,9.83,,s
+144,0,3,"Green, Mr. Robert",Male,33.0,0,3,PC 52940,6.20,,Southampton
+145,0,3,"Wright, Mr. Henry",male,20.3,4,0,SOTON 41479,10.14,, S 
+146,1,3,"Young, Mrs. Florence",female,null,0,0,LINE 81754,10.03,,s
+147,0,3,"Clark, Mr. Alejandro",m,19.2,1,0,PC 95463,18.31,,Southampton
+148,1,3,"Lewis, Miss. Anna",f,null,1,0,W./C. 44399,34.93,,S
+149,0,3,"King, Mr. Carlos",m,3.7,0,0,STON/O2 77452,7.90,,cherbourg
+150,0,2,"King, Mr. Charles",MALE,7.2,0,0,SOTON 39655,20.11,,cherbourg
+151,1,2,"Johnson, Mrs. Lucía",Female,29.5,4,0,C.A. 76745,13.11,,S
+152,0,3,"Young, Mrs. Alice",F,null,0,0,SOTON 2876,9.51,,Southampton
+153,0,3,"Allen, Mr. Arthur", male ,7.4,0,0,W./C. 70255,10.90,,southampton
+154,0,3,"Green, Mr. John",M,17.8,0,0,W./C. 15662,8.45,,Southampton
+155,1,3,"Roberts, Mr. James",male,3.3,3,0,A/5 76929,10.15,, S 
+156,1,1,"King, Mrs. Sofía",f,28.7,1,0,LINE 3149,92.05,, S 
+157,0,1,"Allen, Mr. Henry",Male,unknown,0,two,A/5 47808,55.66,,Cherbourg
+158,1,1,"Hernández, Mrs. Margaret", female ,40.4,0,1,A/5 31936,67.81,, S 
+159,0,3,"Hernández, Mr. Edward",M,25.0,0,0,C.A. 63380,12.57,,Southampton
+160,0,2,"Allen, Mr. Samuel", male ,46.0,0,0,W./C. 1912,46.24,,s
+161,0,3,"Martin, Mr. Daniel", male ,16.6,0,0,C.A. 58134,24.69,,S
+162,1,2,"Johnson, Miss. Mary",female,,1,0,C.A. 96992,32.35,,Southampton
+163,0,3,"Lewis, Mr. Henry",Male,46.6,0,2,PC 78817,2.61,,c
+164,1,3,"Evans, Mrs. Margaret", female ,47.2,0,0,SOTON 97390,6.99,, S 
+165,1,2,"Clark, Mrs. Margaret",F,31.2,2,0,SOTON 19217,9.55,,s
+166,1,3,"Ramírez, Miss. María", female ,unknown,1,0,W./C. 20115,5.55,, S 
+167,0,3,"Davies, Mr. Robert",male,N/A,0,0,SOTON 47780,15.91,,Q
+168,0,3,"Thomas, Mr. Luis",male,N/A,0,1,PC 83469,9.98,,s
+169,1,1,"Johnson, Mr. Alejandro",MALE,21.0,0,1,PC 39586,55.91,,s
+170,0,3,"Wright, Mr. Samuel", male ,N/A,1,0,LINE 65189,14.19,,s
+171,1,1,"Martin, Mrs. Lucía",female,38.5,2,0,A/5 22254,48.74,,s
+172,1,3,"Evans, Mrs. Elizabeth",Female,43.7,2,0,STON/O2 66876,10.85,,S
+173,1,1st,"Hall, Mrs. Anna",F,46.3,0,0,PC 36850,13.34,,q
+174,1,2,"Lewis, Mr. Arthur",MALE,null,0,1,STON/O2 69228,14.54,,Southampton
+175,1,2,"García, Miss. Elena",F,3.6,0,1,W./C. 98467,32.65,,s
+176,0,2,"Allen, Mr. Arthur",Male,N/A,1,1,C.A. 22074,8.73,,C
+177,1,2,"Walker, Mr. George",MALE,18.7,N/A,0,W./C. 55737,22.13,, C 
+178,0,1,"Walker, Mr. Carlos",Male,thirty,0,0,C.A. 52524,217.21,,
+179,0,1,"Clark, Mr. Daniel", male ,24.2,1,0,LINE 17930,112.45,,Southampton
+180,0,3,"Hall, Mr. James",m,42.1,0,0,STON/O2 22263,8.67,, C 
+181,0,3,"Green, Mr. Arthur",m,11.9,0,0,SOTON 15235,23.05,,Cherbourg
+182,1,1,"Lewis, Miss. Alice",f,8.1,0,1,C.A. 98048,50.45,,c
+183,1,2,"Young, Mrs. Helen", female ,40.4,0,0,C.A. 17075,29.95,,Queenstown
+184,1,1,"Allen, Mr. Luis", male ,52.5,1,0,C.A. 98753,76.01,, S 
+185,1,2,"Wilson, Mr. Miguel",M,37.1,1,0,PC 38921,36.24,,s
+186,1,3,"López, Mr. Luis",Male,5.0,0,1,LINE 11939,20.89,,southampton
+187,0,3,"Walker, Miss. Sofía",Female,5.4,1,0,PC 99142,11.98,,queenstown
+188,0,1,"Wright, Miss. Lucía",FEMALE,12.6,0,0,PC 90783,9999,E90, S 
+189,1,3,"King, Miss. Alice",female,1.3,0,0,STON/O2 86786,29.13,,c
+190,1,1,"Hall, Miss. Isabella", female ,21.7,0,2,SOTON 89871,66.88,B35,S
+191,1,3,"Brown, Mr. Daniel",MALE,N/A,0,2,LINE 11844,56.23,,Cherbourg
+192,0,3,"Davies, Mrs. Emily", female ,31.1,0,0,STON/O2 19720,17.22,,S
+193,1,3,"Hall, Mrs. Lucía",Female,38.3,0,2,LINE 21401,7.22,,Southampton
+194,0,3,"López, Mr. Alejandro", male ,null,0,0,C.A. 70927,16.15,,southampton
+195,0,3,"Green, Mr. Thomas",Male,30.8,0,0,STON/O2 71690,10.50,,cherbourg
+196,0,1,"Ramírez, Mr. James",MALE,34.6,0,3,PC 68471,195.50,,q
+197,0,1,"Brown, Mr. Edward",m,39.7,0,0,W./C. 69407,201.63,,Queenstown
+198,0,3,"Evans, Miss. Isabella",f,17.6,0,1,STON/O2 18561,9.59,F58,s
+199,1,2,"Hernández, Mr. Daniel",m,25.7,0,0,C.A. 25348,23.96,,c
+200,0,1,"Hall, Mr. Alejandro",MALE,10.7,0,0,LINE 65993,31.81,, C 
+201,0,3,"Lewis, Mr. Alejandro", male ,22.8,0,0,STON/O2 28739,21.36,,s
+202,0,3,"García, Mr. John",M,36.7,0,0,SOTON 62093,11.03,,Southampton
+203,0,1,"Young, Mrs. Elizabeth",Female,41.8,0,0,W./C. 24471,94.93,E46,southampton
+204,1,3,"Lewis, Mr. James",M,28.1,1,0,A/5 5005,34.61,,Southampton
+205,1,3,"Martínez, Miss. Alice",Female,0.3,1,0,A/5 77349,12.03,, S 
+206,1,2,"Evans, Mr. Robert",Male,52.5,0,0,STON/O2 18481,10.83,, S 
+207,1,3,"King, Miss. Margaret",Female,,0,0,LINE 40454,35.65,, S 
+208,0,2,"Wilson, Mr. Charles",m,33.2,2,0,STON/O2 20073,22.88,, S 
+209,1,3,"Young, Mr. Henry",male,,1,0,PC 56929,11.44,,southampton
+210,1,3,"Roberts, Miss. Edith",f,20.0,0,0,LINE 69710,6.29,,S
+211,1,1,"Roberts, Mr. Samuel",MALE,29.1,0,0,W./C. 34500,25.24,,Southampton
+212,0,3,"Johnson, Mr. Edward",m,17.5,1,0,W./C. 27561,8.94,,Southampton
+213,0,1,"Brown, Mr. Daniel",M,13.2,0,0,LINE 21489,81.90,D14,Southampton
+214,1,3,"Green, Mrs. Emily",female,32.8,0,0,LINE 6067,11.05,,C
+215,0,2,"Allen, Mr. John",M,26.9,0,1,SOTON 84258,10.85,,southampton
+216,0,3,"Smith, Mr. Henry",MALE,6.2,0,0,W./C. 35917,26.89,,s
+217,0,3,"Walker, Mr. John",m,28.5,3,0,W./C. 33904,21.30,,Southampton
+218,0,3,"Davies, Mr. Daniel",MALE,15.4,0,1,LINE 17236,15.58,,southampton
+219,0,1,"Green, Mr. George",Male,42.3,2,0,SOTON 69879,222.89,, C 
+220,1,2,"Davies, Mrs. María",FEMALE,39.1,1,2,C.A. 91964,45.92,,Southampton
+221,1,3,"García, Miss. Edith", female ,22.5,,0,PC 93465,14.70,,Cherbourg
+222,0,3,"Hall, Mr. Daniel",MALE,17.2,0,0,SOTON 95722,10.76,,cherbourg
+223,1,3,"Clark, Mr. Samuel",male,30.8,0,2,STON/O2 89083,8.49,,S
+224,1,3,"Scott, Mrs. Camila",FEMALE,36.5,0,0,A/5 24878,9.47,,Southampton
+225,0,2,"Taylor, Mr. Miguel",m,55.5,0,2,PC 62480,15.49,,southampton
+226,0,3,"Green, Mr. Arthur",Male,,3,1,PC 13809,17.92,,Southampton
+227,1,2,"Clark, Mrs. Elizabeth",F,N/A,0,0,LINE 33930,17.34,,s
+228,0,1," García, Mr. Edward ",MALE,unknown,0,0,W./C. 3186,133.91,E99,c
+229,1,3,"Davies, Miss. Edith",f,14.8,1,0,SOTON 16954,4.62,,s
+230,0,1,"López, Mrs. Margaret",female,34.3,0,1,STON/O2 46466,51.33,C64,S
+231,0,3,"Clark, Mr. Thomas",Male,46.4,0,1,LINE 85330,40.51,, S 
+232,1,2,"Hernández, Mrs. Edith", female ,29.2,1,1,LINE 31753,27.91,,S
+233,0,3,"Evans, Mr. Arthur", male ,0.3,1,0,LINE 72848,66.58,,S
+234,1,1,"Hall, Mrs. Sofía", female ,29.1,0,0,PC 71139,140.41,,s
+235,0,1,"Hall, Mr. Miguel",M,unknown,2,0,SOTON 95799,230.28,, C 
+236,1,3,"Taylor, Mrs. Alice",FEMALE,,0,0,LINE 16298,5.90,,Q
+237,1,2,"Scott, Miss. Alice",FEMALE,8.5,0,0,SOTON 7159,21.43,,Cherbourg
+238,1,2,"Walker, Mr. Arthur",male,9.2,0,0,C.A. 98645,38.80,,Southampton
+239,1,1,"Lewis, Mr. Carlos", male ,32.2,0,3,C.A. 87322,53.19,,S
+240,0,3,"Martínez, Mr. John",Male,17.5,2,0,PC 61870,9.45,, S 
+241,0,3,"Lewis, Mr. Charles",Male,unknown,0,2,LINE 14397,20.18,,Southampton
+242,0,1,"Wilson, Mr. Daniel",Male,N/A,0,0,STON/O2 27303,114.67,,Southampton
+243,0,3,"Martínez, Mr. Alejandro", male ,7.1,0,0,SOTON 68536,19.36,,southampton
+244,0,3,"Evans, Mr. Miguel", male ,null,0,0,W./C. 69797,25.26,, S 
+245,0,3,"Clark, Mr. Robert",male,null,3,0,A/5 11657,12.92,F60,southampton
+246,1,3,"Walker, Mrs. Lucía", female ,56.2,1,2,SOTON 46009,7.30,,Southampton
+247,0,3,"Johnson, Mr. Henry",M,unknown,1,0,W./C. 37662,11.36,,C
+248,0,3,"Smith, Mr. Alejandro",male,N/A,0,0,A/5 63381,35.38,, S 
+249,1,3,"Thomas, Mr. Charles",m,130,1,2,SOTON 25784,14.46,,Southampton
+250,0,3,"Martínez, Mr. Miguel",male,25.6,0,4,SOTON 13424,9.72,,Cherbourg
+251,0,2,"Scott, Mr. Miguel",male,31.7,0,0,W./C. 76225,21.80,,S
+252,0,3,"Young, Mr. Miguel",Male,,0,3,LINE 11077,14.36,,southampton
+253,1,1,"Green, Mrs. Edith",F,53.6,1,0,PC 65927,142.13,,C
+254,0,3,"Martínez, Mr. Henry",male,20.1,0,0,STON/O2 68012,77.89,,Southampton
+255,1,3,"Green, Miss. Emily",,10.2,0,1,C.A. 43191,9.70,,q
+256,0,2,"Martin, Mrs. Isabella",f,38.6,1,0,PC 1091,60.16,D157,Southampton
+257,0,3,"Lewis, Mr. Samuel",male,23.3,4,0,STON/O2 63305,6.93,,queenstown
+258,1,3,"Taylor, Mrs. Anna",Female,40.2,1,1,LINE 39689,17.45,, S 
+259,0,3,"Smith, Mr. Arthur",M,19.4,1,0,STON/O2 35594,26.47,,Southampton
+260,0,3,"Hall, Mr. Arthur",male,41.5,0,1,STON/O2 15438,11.83,,Cherbourg
+261,1,1,"Green, Mr. George",male,26.0,2,0,SOTON 63996,40.84,, C 
+262,0,3,"Johnson, Mr. Arthur",M,17.6,1,1,STON/O2 58341,20.57,,Cherbourg
+263,0,2,"King, Mr. Arthur",m,26.2,0,0,PC 8740,30.59,,southampton
+264,0,3,"Smith, Mrs. Edith",female,27.8,2,0,PC 6236,28.49,,S
+265,1,1,"Young, Miss. Sofía",FEMALE,23.2,2,0,C.A. 44397,145.30,,s
+266,1,1,"López, Mr. Thomas",MALE,25.9,0,2,W./C. 24869,67.82,,S
+267,1,1,"Wright, Mr. Carlos",m,11.3,0,0,W./C. 76150,60.84,E47, C 
+268,0,2,"Wright, Mr. Edward",Male,null,2,0,LINE 96915,19.20,, S 
+269,0,2,"Allen, Mr. Samuel",MALE,36.2,1,0,A/5 90250,28.34,,s
+270,0,3,"Wright, Mrs. Margaret", female ,unknown,0,0,W./C. 80091,14.06,,C
+271,0,3,"Brown, Mr. John",male,N/A,3,2,A/5 52959,16.90,,Southampton
+272,1,3,"Green, Mr. Samuel",male,N/A,0,0,LINE 91402,16.96,,Cherbourg
+273,0,3,"Hall, Mr. Alejandro",MALE,69.2,0,1,LINE 4700,N/A,,S
+274,0,3,"Brown, Mr. James",M,N/A,3,0,C.A. 74261,15.60,, S 
+275,1,3,"Taylor, Mr. Samuel",M,,0,0,W./C. 82227,30.30,,southampton
+276,1,2,"Martin, Mr. William",M,N/A,1,0,A/5 23517,39.03,,c
+277,0,3,"Martin, Mr. George",Male,33.5,0,1,A/5 8131,5.12,, S 
+278,0,1,"Taylor, Mr. Daniel",MALE,57.0,0,0,A/5 60174,72.80,B106,southampton
+279,1,3,"Ramírez, Mr. Edward",Male,unknown,0,0,PC 91214,8.03,,s
+280,0,3,"García, Mr. Robert",m,7.2,0,2,A/5 89885,19.04,,Southampton
+281,0,1,"Lewis, Mr. Daniel",male,N/A,0,2,LINE 39605,34.86,,
+282,1,1,"Evans, Mr. Arthur",m,9.4,1,0,A/5 23719,42.39,B4, S 
+283,1,3,"Johnson, Mrs. Margaret",FEMALE,50.6,0,1,LINE 38657,19.10,,cherbourg
+284,0,3,"Johnson, Mr. Alejandro",male,22.2,0,0,W./C. 76303,25.28,, S 
+285,0,2,"Wilson, Mr. Edward",m,32.7,0,0,STON/O2 56923,9.60,,s
+286,0,3,"Taylor, Mr. George",m,29.3,0,0,A/5 53693,16.77,,
+287,1,3,"Davies, Miss. Elizabeth", female ,23.3,0,0,STON/O2 1605,21.94,, S 
+288,1,1,"Davies, Mr. George",male,51.0,0,0,PC 3723,111.00,,Queenstown
+289,0,2,"Martin, Mr. Alejandro",Male,67.5,0,0,SOTON 4844,11.79,,S
+290,0,3,"Allen, Mr. Alejandro",MALE,null,0,0,PC 95981,14.80,,s
+291,0,2,"Brown, Mrs. Mary",FEMALE,26.5,1,0,PC 56606,27.28,,Southampton
+292,0,3,"Roberts, Mr. James",M,50.0,0,1,A/5 6407,15.59,,southampton
+293,1,2,"Hall, Mr. John",Male,unknown,0,4,SOTON 29625,9.23,,S
+294,0,3,"Wright, Mr. George",Male,7.5,1,0,STON/O2 89915,18.53,,southampton
+295,1,1,"King, Mr. Edward",MALE,42.7,0,1,STON/O2 61588,47.33,,q
+296,0,2,"King, Mr. Carlos",m,27.8,0,0,PC 79020,15.45,,S
+297,0,2,"Hernández, Mr. Henry",M,12.1,0,0,STON/O2 43058,22.52,F130, Q 
+298,1,3,"Ramírez, Mrs. Elena",Female,32.1,0,0,PC 23529,13.02,,Southampton
+299,1,1,"López, Mr. Charles",M,,2,0,W./C. 80621,45.35,,Southampton
+300,0,3,"Roberts, Mr. Alejandro",M,48.0,2,0,C.A. 7421,10.54,,Southampton
+301,0,3,"García, Mr. Edward", male ,3.3,0,0,PC 3599,19.91,,Southampton
+302,0,1,"Clark, Mr. Luis", male ,40.1,2,0,A/5 47824,76.00,,S
+303,1,3,"Taylor, Mr. Arthur", male ,12.3,1,0,W./C. 79239,25.24,,Southampton
+304,0,3,"Evans, Mrs. Lucía",f,27.3,0,0,W./C. 3027,12.05,, S 
+305,0,3,"Walker, Mr. Samuel",M,-3,0,0,STON/O2 56613,16.89,,cherbourg
+306,1,3,"López, Miss. Ethel",female,2.4,0,0,STON/O2 29176,29.06,,queenstown
+307,0,2,"Taylor, Mr. Thomas",m,48.2,0,1,SOTON 37580,11.89,,Cherbourg
+308,1,3,"García, Mr. William", male ,75.5,0,0,STON/O2 40228,4.98,,s
+309,0,2,"Hernández, Mr. Luis",male,N/A,0,0,C.A. 81513,10.15,, C 
+310,0,3,"Lewis, Mr. Edward",MALE,null,0,0,W./C. 32031,16.50,,southampton
+311,0,3,"Walker, Mrs. Alice",FEMALE,44.8,0,0,PC 52912,29.95,,c
+312,0,2,"Hall, Mr. Thomas",male,,0,0,STON/O2 50545,18.56,,cherbourg
+313,1,3,"Brown, Miss. Alice",f,unknown,0,1,C.A. 15150,7.71,,southampton
+314,0,1,"Young, Mr. James",MALE,40.7,0,1,PC 51717,47.37,,queenstown
+315,1,1,"Young, Mrs. Ethel",f,26.8,0,0,A/5 50236,51.82,A43,queenstown
+316,0,1,"Young, Mr. Alejandro",male,45.6,1,2,PC 4492,78.84,, S 
+317,0,3,"Brown, Mr. John",Male,22.8,0,0,STON/O2 24064,11.58,,Southampton
+318,0,2,"Thomas, Mrs. Lucía",Female,34.9,0,1,STON/O2 43726,31.73,,
+319,0,1,"Lewis, Mrs. Edith", female ,N/A,0,0,W./C. 68547,55.81,,S
+320,1,3,"Clark, Mr. Arthur", male ,7.2,0,0,SOTON 22905,8.42,,S
+321,1,3,"Hall, Miss. María",Female,3.9,3,0,SOTON 36035,2.65,,southampton
+322,0,3,"Martin, Mr. Luis",Male,27.2,2,1,LINE 94080,19.24,,cherbourg
+323,0,2,"Young, Mrs. Anna",f,25.7,0,1,SOTON 84716,18.71,,c
+324,0,3,"Davies, Miss. Sofía",F,7.0,0,0,C.A. 87729,8.70,, S 
+325,0,2,"Davies, Mr. Robert",m,40.9,0,0,STON/O2 4767,17.31,,Southampton
+326,0,2,"Smith, Mrs. Lucía",F,45.8,0,2,SOTON 30985,39.31,, S 
+327,1,1,"Scott, Mrs. Elena",F,55.5,0,1,STON/O2 33178,124.54,,Queenstown
+328,1,3,"Roberts, Mr. Daniel",MALE,20.9,0,0,STON/O2 47384,5.89,,Southampton
+329,0,3,"Thomas, Mr. Miguel",M,0.3,0,0,STON/O2 27907,16.69,,s
+330,1,2,"Taylor, Miss. Mary",FEMALE,5.6,0,1,C.A. 59792,14.15,,Southampton
+331,0,3,"Allen, Mr. Thomas",MALE,null,0,0,A/5 26129,12.95,,Southampton
+332,1,1,"Wilson, Mr. Carlos", male ,unknown,0,1,LINE 85215,193.63,,s
+333,0,3,"Thomas, Mr. William",male,25.7,0,0,PC 70718,11.13,,Southampton
+334,0,1,"Smith, Mr. Henry",male,33.5,0,0,PC 86437,101.11,,Southampton
+335,1,3,"Smith, Mrs. Margaret",f,47.6,1,0,W./C. 98814,16.03,,Queenstown
+336,0,1,"Thomas, Mr. Luis",male,59.5,0,4,SOTON 7260,73.15,,q
+337,0,3,"Evans, Mr. John", male ,29.8,0,1,SOTON 92854,11.42,,Southampton
+338,0,3,"Brown, Mrs. Emily",Female,42.1,0,1,C.A. 35284,35.77,,s
+339,0,3,"King, Mr. George",MALE,56.8,0,2,W./C. 68722,17.01,E57,Southampton
+340,0,2,"Walker, Mr. Thomas",m,,0,0,SOTON 51506,32.69,,S
+341,1,1,"Ramírez, Miss. Ethel",Female,16.4,0,0,STON/O2 18985,175.72,,Southampton
+342,0,1,"Martínez, Mr. Charles", male ,37.0,0,0,SOTON 69701,236.16,,s
+343,1,2,"Green, Miss. Ethel",female,21.2,0,1,W./C. 98901,39.13,,s
+344,0,2,"Green, Mrs. Edith",FEMALE,34.2,0,1,LINE 47820,10.06,,S
+345,0,3,"Johnson, Miss. Anna",FEMALE,11.9,0,1,STON/O2 53628,5.40,,S
+346,1,3,"Martin, Miss. María", female ,22.6,0,3,SOTON 14722,24.32,E26, S 
+347,1,1,"Wilson, Mr. Henry",MALE,27.0,0,0,STON/O2 41368,69.48,D51,southampton
+348,1,3,"Hernández, Mrs. Elizabeth",Female,29.6,3,2,W./C. 89117,6.48,,Southampton
+349,0,3,"Johnson, Mr. Samuel", male ,29.6,1,0,LINE 52856,5.36,, S 
+350,1,2,"Brown, Mr. Luis",Male,21.7,0,0,STON/O2 27056,14.81,,cherbourg
+351,1,3,"Martin, Mrs. Sofía",f,N/A,4,0,C.A. 47800,25.38,,S
+352,0,2,"Scott, Mrs. Lucía",Female,29.9,3,0,W./C. 97893,35.77,,c
+353,0,3,"Green, Mr. Daniel",MALE,unknown,1,0,STON/O2 49861,14.80,,s
+354,1,3,"Clark, Miss. Camila",Female,0.3,0,0,PC 51720,14.77,,Q
+355,0,3,"King, Mr. William",M,43.0,0,1,A/5 11654,20.69,, S 
+356,1,2,"Hernández, Mr. Thomas",male,41.1,0,0,STON/O2 3621,33.66,,cherbourg
+357,1,3,"Martin, Mr. Miguel", male ,16.2,0,3,A/5 40579,25.68,,Southampton
+358,1,3,"Walker, Miss. Helen",female,24.1,0,1,A/5 16330,15.65,,c
+359,0,2,"López, Mrs. Edith",f,32.9,0,1,PC 36991,19.68,,cherbourg
+360,0,3,"García, Mr. Arthur",M,36.0,2,0,LINE 77757,free,,Southampton
+361,1,3,"Martínez, Mr. Luis",Male,4.7,0,0,SOTON 23277,9.42,,Southampton
+362,1,3,"Scott, Mr. George",Male,9.8,1,0,C.A. 89476,6.71,,Southampton
+363,1,3,"Young, Mr. Miguel",Male,unknown,0,0,SOTON 79296,7.19,G105,s
+364,0,3,"Wilson, Mr. Henry",MALE,22.0,0,0,PC 54926,19.65,,southampton
+365,1,1,"Hernández, Mrs. Elena",female,40.8,0,0,W./C. 45307,34.54,, S 
+366,0,3,"Hall, Mr. Luis",m,unknown,0,0,A/5 72760,9.47,,southampton
+367,0,2,"Young, Mr. Samuel",m,32.7,0,0,C.A. 43263,23.34,,southampton
+368,0,3,"Evans, Mr. Charles", male ,6.1,3,0,SOTON 88671,6.79,,C
+369,0,1,"Roberts, Mr. Miguel",M,52.1,0,2,W./C. 82268,35.18,, C 
+370,1,2," Wright, Mr. George ",m,8.2,0,1,SOTON 49266,14.76,,S
+371,0,3,"Martínez, Mr. Robert",M,5.5,0,two,STON/O2 97139,11.65,,southampton
+372,1,3,"Walker, Miss. Ethel",F,22.2,0,0,A/5 20978,14.38,,southampton
+373,0,1,"Young, Mr. Samuel",,37.0,1,0,STON/O2 59008,154.30,,S
+374,0,1,"Brown, Mr. Miguel",M,17.9,1,2,PC 49788,46.27,,Southampton
+375,1,2,"Allen, Mrs. Elizabeth",f,38.5,0,1,STON/O2 1865,34.20,,Southampton
+376,1,2,"Martínez, Mr. Arthur",m,11.2,0,1,C.A. 89914,26.00,,southampton
+377,1,2,"Taylor, Mr. Luis",Male,34.2,0,0,W./C. 19741,27.55,,queenstown
+378,1,1,"Taylor, Mrs. Isabella",F,41.8,0,0,W./C. 76569,154.73,,s
+379,1,1,"Clark, Mr. John",M,25.2,1,3,LINE 82498,177.70,,Southampton
+380,1,1,"Allen, Mrs. Helen",F,26.6,2,1,W./C. 26552,190.02,A22,cherbourg
+381,0,3,"Young, Mr. William",m,30.4,0,0,W./C. 58902,11.11,,q
+382,0,3,"Taylor, Mr. William",Male,42.7,1,1,SOTON 33648,27.03,,Southampton
+383,1,3,"Brown, Mr. Thomas",Male,47.4,0,0,SOTON 81054,24.78,,
+384,0,2,"Hall, Mr. Edward",m,45.1,0,0,C.A. 68919,33.36,, S 
+385,0,3,"Martínez, Mr. Samuel",Male,24.3,,2,STON/O2 1923,11.88,, S 
+386,0,3,"Davies, Mr. William",Male,40.8,1,0,SOTON 72068,6.85,,Queenstown
+387,1,3,"Ramírez, Miss. Isabella",FEMALE,null,0,3,SOTON 81174,21.46,, C 
+388,1,1,"Taylor, Mr. William",male,52.1,2,0,SOTON 11076,53.20,,S
+389,0,2,"Walker, Miss. Ethel", female ,,0,0,PC 15271,34.09,D3,queenstown
+390,0,3,"Ramírez, Mr. John",Male,39.2,0,0,A/5 82017,12.15,,southampton
+391,0,3,"Hall, Mr. Luis",MALE,,2,0,SOTON 36493,26.95,,queenstown
+392,1,2,"Thomas, Miss. Alice",FEMALE,20.5,0,0,W./C. 42112,21.50,, Q 
+393,1,3,"Martin, Mr. Alejandro",male,,2,0,W./C. 19560,5.02,,S
+394,no,1,"Wilson, Mr. Miguel",M,33.7,0,0,LINE 15382,149.43,A56, C 
+395,0,3,"López, Mr. Miguel",Male,21.5,0,3,C.A. 38400,19.78,,southampton
+396,1,1,"Allen, Mr. Robert", male ,130,0,0,PC 66594,71.96,,S
+397,0,2,"Taylor, Mr. John", male ,0.3,1,0,SOTON 73752,78.72,F2,southampton
+398,1,2,"Martin, Mr. William", male ,47.4,1,0,SOTON 45553,13.74,E19,Cherbourg
+399,1,3,"Lewis, Mr. Henry", male ,41.0,0,0,SOTON 66204,20.75,,C
+400,0,3,"Roberts, Mr. Miguel",M,28.2,0,0,A/5 63722,17.40,,southampton
+401,1,3,"Scott, Mrs. Margaret",FEMALE,34.9,0,0,A/5 17530,11.27,, S 
+402,0,1,"Johnson, Mr. John", male ,N/A,0,1,LINE 12573,169.61,,q
+403,1,3,"López, Miss. Margaret", female ,,0,0,STON/O2 96365,11.56,,Southampton
+404,0,3,"Clark, Mr. Daniel",m,48.2,1,0,C.A. 96505,26.96,,c
+405,0,1,"López, Mr. John",M,38.3,0,0,A/5 79134,140.78,,southampton
+406,1,2,"Martin, Mrs. María",f,999,0,2,W./C. 39957,23.26,D117,s
+407,0,3,"Martin, Mr. John",MALE,61.1,1,0,LINE 38295,14.86,, S 
+408,1,1,"López, Mrs. Anna",female,27.7,5,0,STON/O2 67127,74.93,E142,southampton
+409,1,3,"Lewis, Mrs. Anna",Female,N/A,0,0,LINE 49403,7.26,,southampton
+410,0,3,"Lewis, Mr. Luis",m,16.1,0,1,W./C. 76150,38.32,,q
+411,1,3,"King, Mrs. Elena",FEMALE,null,0,0,STON/O2 93237,12.21,, S 
+412,0,3,"Lewis, Miss. Lucía",f,24.6,1,0,STON/O2 33586,18.26,,S
+413,0,3,"Martin, Mr. Charles",male,50.6,0,1,W./C. 96836,17.40,,S
+414,1,3,"Martínez, Mr. Arthur",M,0.3,1,0,SOTON 29548,25.78,, S 
+415,0,3,"Walker, Mr. James",Male,unknown,0,0,STON/O2 63003,34.50,,southampton
+416,1,2,"Ramírez, Mr. Charles", male ,unknown,0,0,STON/O2 49920,17.13,,S
+417,0,3,"Green, Mr. Daniel",M,unknown,1,0,STON/O2 59007,16.97,,s
+418,1,3,"Martínez, Mrs. Isabella",female,,0,0,PC 85714,9.71,, S 
+419,0,3,"Scott, Mr. Luis",Male,56.6,0,0,SOTON 2119,5.92,,Southampton
+420,0,3,"Green, Mr. John", male ,18.6,0,0,A/5 83413,8.72,E137, S 
+421,0,3,"Davies, Mr. Samuel",m,11.9,0,0,STON/O2 63198,32.96,,C
+422,0,1,"Martin, Mr. Henry",M,26.5,1,0,C.A. 85192,151.20,,Southampton
+423,0,3,"Smith, Mr. Miguel",m,32.0,5,2,LINE 32803,8.03,,S
+424,1,3,"Wright, Miss. Sofía",female,19.9,0,2,STON/O2 27097,14.91,, S 
+425,0,3,"Thomas, Miss. Elizabeth",f,22.8,0,-1,PC 77808,8.18,, S 
+426,1,1,"Brown, Mrs. Edith", female ,49.2,1,2,A/5 48608,94.06,,s
+427,1,3,"Brown, Mrs. Sofía", female ,39.6,0,0,LINE 4758,12.63,,C
+428,1,1,"Scott, Mrs. Emily", female ,29.1,0,3,C.A. 16813,252.11,,Southampton
+429,1,3,"López, Mr. Alejandro",male,9.8,1,0,C.A. 36332,5.32,,southampton
+430,0,3,"King, Miss. Elena", female ,unknown,0,0,LINE 35881,7.11,,c
+431,1,3,"Martínez, Miss. Emily",FEMALE,N/A,1,0,STON/O2 8992,11.77,,southampton
+432,0,3,"Evans, Mr. Charles",Male,19.2,0,0,W./C. 5288,29.90,, S 
+433,1,3,"Evans, Mrs. Ethel", female ,26.4,0,0,C.A. 9358,14.61,,s
+434,1,2,"Lewis, Mr. Alejandro",M,54.9,0,0,LINE 25902,4.06,,Southampton
+435,1,1,"Thomas, Mr. Charles",m,20.0,1,0,LINE 19925,192.34,C37, S 
+436,1,2,"Martin, Mr. Henry",m,37.2,1,0,C.A. 98843,12.66,,cherbourg
+437,0,3,"Hernández, Mrs. Elizabeth",female,30.8,0,0,LINE 6858,2.51,,Southampton
+438,1,3,"Davies, Mr. Samuel",Male,42.1,0,0,SOTON 33169,5.40,, C 
+439,0,3,"Thomas, Mr. Samuel",male,24.3,2,1,SOTON 50564,12.88,,C
+440,1,2,"Clark, Miss. Ethel",f,3.6,0,0,C.A. 65402,22.52,,southampton
+441,1,3,"Ramírez, Mr. Edward",male,13.6,0,0,W./C. 45996,17.59,, S 
+442,0,1,"Hernández, Mr. Carlos", male ,48.6,0,0,W./C. 83103,83.30,, S 
+443,0,2,"Wilson, Mrs. Anna",f,,0,0,C.A. 68282,59.46,, S 
+444,0,3,"Smith, Mr. Edward",Male,42.5,0,1,SOTON 17480,19.56,,Cherbourg
+445,0,3,"Smith, Mr. Henry", male ,54.9,0,0,STON/O2 91694,16.26,,Cherbourg
+446,0,2,"Johnson, Mr. Alejandro",male,null,0,0,STON/O2 89656,33.52,,Southampton
+447,0,3,"Martin, Mrs. Mary",Female,44.7,0,0,SOTON 95871,6.99,,southampton
+448,1,3,"García, Mrs. Edith",female,42.4,1,0,PC 91705,34.44,, S 
+449,1,2,"Scott, Mrs. Elena", female ,44.0,0,2,PC 81239,22.31,,Southampton
+450,0,1,"Green, Mr. Carlos",MALE,unknown,1,3,W./C. 15570,35.39,,s
+451,1,1,"King, Mr. Charles",male,null,2,0,SOTON 3300,126.30,,cherbourg
+452,0,1,"García, Mr. Henry",M,24.5,1,0,W./C. 90003,30.01,,southampton
+453,0,2,"Lewis, Mr. Robert",m,25.6,0,1,STON/O2 81080,25.07,,s
+454,0,3,"King, Mr. James",Male,28.4,0,0,LINE 25428,16.70,,Southampton
+455,0,3,"Thomas, Mr. Alejandro",male,43.7,0,0,PC 10664,9.37,,Southampton
+456,0,3,"Johnson, Mr. Daniel",male,32.5,0,0,PC 93741,5.91,,queenstown
+457,1,1,"Smith, Mrs. Lucía", female ,46.1,1,0,W./C. 98233,73.43,,Cherbourg
+458,0,1,"Clark, Mr. Daniel",M,34.1,1,1,LINE 83947,58.94,,southampton
+459,0,2,"King, Mr. George",Male,25.4,1,3,W./C. 57685,25.78,, S 
+460,0,3,"Taylor, Mr. Daniel",male,21.8,0,1,A/5 68404,18.51,, S 
+461,0,3,"Allen, Mr. John",male,53.3,0,0,LINE 54548,16.15,,q
+462,1,2,"Roberts, Miss. María",F,7.9,0,0,SOTON 56417,17.76,,southampton
+463,0,3,"Wilson, Mr. Edward",Male,59.5,0,1,PC 56485,19.75,,Southampton
+464,0,1,"Lewis, Mr. George",Male,null,1,0,LINE 86193,216.38,,southampton
+465,0,1,"Evans, Mr. Luis",m,35.2,0,0,W./C. 7803,248.55,,southampton
+466,1,2,"Wilson, Mrs. Elizabeth", female ,26.2,1,1,C.A. 96450,14.07,,c
+467,1,2,"Wright, Mr. Charles", male ,10.7,-1,2,W./C. 47317,18.49,,q
+468,0,1,"Davies, Mr. Carlos",m,N/A,1,0,C.A. 58086,160.21,,Southampton
+469,1,2,"Hernández, Mr. Charles",male,36.1,1,0,PC 31669,23.22,, C 
+470,0,3,"Scott, Mrs. Margaret",f,36.0,1,0,SOTON 90882,10.97,,southampton
+471,1,1,"Scott, Mr. Thomas",M,51.8,0,0,LINE 63691,40.81,,southampton
+472,1,3,"Scott, Miss. Margaret",FEMALE,2.8,2,0,SOTON 65758,8.96,,Cherbourg
+473,0,3,"Clark, Mr. Luis", male ,,3,0,STON/O2 46631,12.06,,Cherbourg
+474,0,2,"Davies, Mr. Charles", male ,13.6,0,0,STON/O2 64151,22.32,,s
+475,0,3,"King, Miss. Mary",female,23.9,0,2,LINE 80168,21.35,,s
+476,0,1,"López, Mr. John", male ,unknown,0,0,STON/O2 36093,79.35,D123,S
+477,0,2,"Wilson, Mr. Samuel",m,N/A,1,0,W./C. 44930,10.14,,S
+478,1,1,"Allen, Mrs. Camila",Female,30.0,0,0,W./C. 12835,159.74,, S 
+479,1,3,"Brown, Miss. Edith",F,23.1,0,0,LINE 95247,32.59,, S 
+480,1,3,"García, Mr. Luis",Male,7.2,0,3,C.A. 23409,8.04,,c
+481,0,3,"Wright, Miss. Anna",Female,,0,1,SOTON 47115,8.65,,S
+482,0,1,"Smith, Mr. John", male ,41.0,1,0,A/5 69445,67.70,, C 
+483,0,3,"Roberts, Mr. John",M,,0,1,STON/O2 87226,11.56,,s
+484,1,1,"Lewis, Miss. Sofía",F,,0,1,SOTON 59204,70.68,, S 
+485,0,2,"Thomas, Mr. Daniel", male ,45.2,0,0,STON/O2 20834,34.96,, S 
+486,0,3,"Thomas, Mr. James",MALE,,0,0,W./C. 91732,17.44,,s
+487,0,3,"López, Mr. Carlos",MALE,27.2,1,0,SOTON 94179,16.73,, S 
+488,0,3,"Young, Mr. Luis",M,39.6,0,0,C.A. 23701,7.99,,southampton
+489,1,3,"Evans, Mrs. Sofía",FEMALE,unknown,4,1,PC 83202,4.99,, S 
+490,1,3,"Scott, Miss. Lucía",f,14.3,0,0,A/5 57746,30.44,,southampton
+491,0,1,"Martin, Mr. George",M,32.5,0,1,W./C. 23510,87.38,,s
+492,1,3,"Green, Mr. George",Male,12.6,0,3,A/5 59963,5.26,,S
+493,1,3,"Lewis, Mrs. Helen",female,36.5,0,0,A/5 84778,5.42,, C 
+494,0,3,"Scott, Mrs. Margaret",f,unknown,1,0,STON/O2 61583,32.31,,c
+495,1,1,"Ramírez, Mr. John",MALE,41.8,1,0,C.A. 29922,105.89,,S
+496,1,1,"Wright, Mrs. Camila",Female,30.0,0,0,C.A. 17628,27.81,B110,Southampton
+497,1,2,"Wilson, Mr. Daniel",M,53.5,0,0,STON/O2 55116,28.50,,S
+498,1,3,"Roberts, Miss. Elena",female,21.3,0,0,PC 52803,6.88,,s
+499,0,3,"Roberts, Mrs. Mary",f,46.3,0,0,W./C. 23939,6.90,, S 
+500,1,2,"Clark, Mrs. Elizabeth",FEMALE,40.8,0,1,PC 12555,38.63,,C
+501,0,3,"Ramírez, Mrs. Lucía",FEMALE,36.0,1,0,A/5 46683,10.61,, S 
+502,0,2,"López, Mr. Arthur", male ,21.2,0,0,C.A. 7366,35.88,E119,southampton
+503,0,3,"Scott, Mr. William",MALE,11.2,0,0,PC 41710,4.78,,S
+504,1,3,"Wright, Mr. Thomas",m,31.6,0,0,SOTON 46622,31.61,,s
+505,0,3,"Thomas, Mr. Charles", male ,45.7,0,0,STON/O2 21124,5.45,,
+506,1,1,"Clark, Mrs. Alice",F,27.8,0,0,LINE 15460,92.14,, S 
+507,1,1,"Clark, Mrs. Helen",female,26.1,0,0,SOTON 76121,35.04,,S
+508,1,3,"Young, Mr. Miguel",M,9.4,0,0,LINE 10122,9.13,,S
+509,0,1,"Taylor, Mr. William",Male,39.3,2,2,C.A. 66794,89.51,,s
+510,0,1,"Young, Mr. William",m,30.4,0,0,STON/O2 48150,44.15,,southampton
+511,0,3,"Young, Mr. Carlos",MALE,15.6,1,0,W./C. 35417,12.97,,s
+512,1,3,"Martin, Mr. Miguel", male ,48.9,0,0,W./C. 23071,18.62,,S
+513,0,3,"Brown, Mr. Thomas",Male,73.0,1,2,LINE 41262,37.18,,S
+514,0,2,"Young, Mr. Alejandro",M,25.6,0,0,SOTON 30057,18.01,,S
+515,1,2,"Smith, Miss. Sofía",f,0.3,1,0,C.A. 90177,16.90,,S
+516,0,3,"Evans, Mr. John",Male,29.0,0,0,PC 20791,4.92,,Southampton
+517,1,2,"Martínez, Mrs. Helen",F,44.6,2,0,LINE 88959,15.20,,Southampton
+518,0,3,"Martin, Mr. James", male ,43.6,0,1,C.A. 62447,8.91,,southampton
+519,0,3,"López, Mr. Alejandro",m,20.0,0,2,PC 79773,17.25,,S
+520,1,2,"López, Mrs. Sofía",F,27.2,0,0,W./C. 24684,40.00,,S
+521,0,3,"López, Mr. Thomas", male ,36.6,2,0,A/5 63574,14.47,,Q
+522,0,2,"López, Mr. Miguel",male,29.5,4,0,STON/O2 34730,15.93,,s
+523,1,3,"Martínez, Mr. Charles",M,34.9,1,2,C.A. 24107,4.21,, C 
+524,0,3,"Thomas, Mrs. Margaret",female,38.8,0,0,W./C. 28365,7.16,,
+525,0,3,"Allen, Mr. Thomas",Male,18.5,0,0,PC 77623,20.48,, S 
+526,0,3,"King, Mr. Daniel",m,12.6,0,3,W./C. 15447,18.31,,c
+527,0,3," Thomas, Mr. Charles ",M,,0,0,SOTON 82039,10.56,,Cherbourg
+528,0,3,"Walker, Mr. Daniel",Male,37.7,0,2,LINE 52449,17.49,,s
+529,1,2,"Johnson, Miss. Helen",FEMALE,20.0,0,0,LINE 86695,31.53,,
+530,0,3,"Wilson, Mr. Alejandro", male ,19.1,2,0,SOTON 64414,23.44,, S 
+531,1,3,"Green, Miss. Camila",FEMALE,20.9,0,0,SOTON 94186,20.45,, S 
+532,1,1,"Thomas, Mr. Robert",M,7.8,0,0,SOTON 90030,174.02,,Southampton
+533,1,2,"Wright, Mrs. Lucía", female ,36.5,1,0,STON/O2 93513,25.95,,c
+534,1,3,"Thomas, Miss. Ethel",FEMALE,20.8,0,0,A/5 69046,19.74,,
+535,0,3,"Martínez, Mr. George",Male,45.8,3,0,PC 54392,19.32,,southampton
+536,0,3,"Ramírez, Mr. Thomas",Male,66.5,0,0,C.A. 57479,14.57,,s
+537,1,2," King, Miss. Mary ",Female,8.7,1,0,STON/O2 26133,20.33,, S 
+538,0,2nd,"Johnson, Mr. Daniel",MALE,46.9,0,0,PC 26381,65.66,,queenstown
+539,1,2,"Martínez, Mrs. María",f,29.0,1,0,A/5 52865,18.56,,cherbourg
+540,1,1,"Ramírez, Mr. Robert",male,27.3,0,0,PC 48273,149.34,, S 
+541,1,1,"Allen, Mrs. Ethel", female ,41.5,0,0,C.A. 5829,59.64,,s
+542,1,3,"Brown, Mrs. Alice",female,47.9,0,0,A/5 50536,9.36,,S
+543,1,1,"Ramírez, Mr. Arthur",Male,N/A,2,0,C.A. 62444,39.85,,S
+544,0,3,"Hernández, Mr. George", male ,null,0,1,W./C. 40167,8.77,,southampton
+545,1,3,"Roberts, Miss. Elena", female ,20.6,4,0,W./C. 60030,17.85,, S 
+546,1,3,"Wilson, Mr. John",m,34.2,0,2,LINE 22360,22.27,G179,c
+547,1,3,"Ramírez, Mrs. Helen",female,34.3,0,4,SOTON 12984,8.51,,s
+548,0,2,"Allen, Mr. Samuel",M,6.7,0,0,STON/O2 13934,37.93,,s
+549,1,1,"Clark, Mrs. Isabella",female,46.4,0,2,C.A. 53585,76.63,,southampton
+550,1,3,"Thomas, Miss. Florence",FEMALE,20.4,1,0,LINE 13209,17.96,,s
+551,1,1,"King, Mrs. María",FEMALE,27.5,0,0,C.A. 72003,169.86,,southampton
+552,0,3,"Hernández, Mr. Samuel",MALE,21.1,1,0,SOTON 98085,12.68,,S
+553,1,1,"Green, Mrs. Elizabeth",,43.2,0,0,PC 36753,81.45,E125,Southampton
+554,1,3,"Johnson, Mr. George",MALE,19.2,0,0,PC 92760,5.59,,S
+555,0,3,"Walker, Mr. Carlos", male ,1.7,0,0,A/5 16482,12.30,,
+556,No,3,"Wilson, Mr. Carlos", male ,17.9,0,0,LINE 64751,23.07,,southampton
+557,0,3,"Evans, Mr. Robert",M,66.0,1,0,SOTON 29937,4.88,,Southampton
+558,0,3,"Clark, Miss. Elena", female ,null,0,1,LINE 74782,5.58,,s
+559,0,3,"Scott, Mrs. Margaret",F,34.7,1,0,PC 78191,21.12,,s
+560,0,3,"Walker, Mr. Daniel",M,19.4,0,0,LINE 61587,9.28,,S
+561,1,3,"Ramírez, Mrs. Elizabeth",female,34.5,2,0,A/5 91407,4.14,,s
+562,0,3,"King, Mr. Luis",male,31.9,5,0,PC 83341,7.72,,southampton
+563,1,3,"Martin, Miss. Sofía",female,1.8,2,2,PC 93598,6.33,,Southampton
+564,0,3,"Johnson, Mr. Thomas",M,30.0,0,0,A/5 79226,6.86,,cherbourg
+565,0,3,"Johnson, Mr. James",MALE,9.7,0,0,PC 58239,8.10,,Q
+566,0,2,"Allen, Mr. Carlos",M,72.6,0,2,C.A. 41242,46.79,F7,southampton
+567,1,3,"Evans, Miss. Margaret",female,1.6,0,two,SOTON 5127,6.15,,S
+568,1,3,"Clark, Mr. Luis",MALE,35.5,0,0,W./C. 13811,14.31,,Cherbourg
+569,1,1,"Thomas, Miss. Isabella", female ,2.2,0,0,STON/O2 30195,131.10,C79,S
+570,0,3,"Johnson, Mr. Alejandro",m,29.6,0,1,STON/O2 43732,6.67,,s
+571,0,3,"Hall, Mr. Thomas", male ,N/A,2,0,PC 44390,37.40,,s
+572,0,3,"Roberts, Mr. Charles", male ,-3,1,2,SOTON 81004,4.76,,Southampton
+573,1,3,"Scott, Mr. George",m,unknown,0,0,A/5 84158,26.72,,S
+574,1,3,"Ramírez, Mr. Samuel",M,15.6,0,0,SOTON 92725,13.07,E26,southampton
+575,1,2,"Young, Miss. Anna",FEMALE,8.1,2,0,W./C. 38646,10.70,,southampton
+576,1,1,"Taylor, Miss. Mary",F,null,0,0,STON/O2 73692,50.47,, S 
+577,1,3,"Johnson, Mr. William",m,30.9,1,0,SOTON 86230,7.20,,S
+578,1,1,"García, Mr. George",m,null,0,2,PC 84854,91.84,,cherbourg
+579,0,2,"Green, Mr. Arthur",Male,40.8,1,0,SOTON 95304,45.36,,Cherbourg
+580,1,3,"Wilson, Miss. Isabella",f,23.1,1,0,W./C. 50742,16.56,,s
+581,0,2,"Wright, Mr. Arthur", male ,22.2,0,2,STON/O2 51711,14.98,,Queenstown
+582,1,2,"García, Mr. Henry", male ,unknown,0,2,LINE 26137,25.19,, S 
+583,0,1,"Scott, Mrs. Margaret",F,31.9,1,0,SOTON 3471,155.58,, S 
+584,0,1,"Green, Mr. Alejandro",male,21.4,0,1,LINE 51944,43.30,,Southampton
+585,0,2,"Hall, Mr. Charles", male ,71.4,0,0,STON/O2 87807,14.80,,S
+586,1,3,"Lewis, Mr. Arthur",M,unknown,1,0,A/5 84737,6.16,,Southampton
+587,0,1,"Davies, Mr. John",m,41.0,0,0,A/5 68835,109.49,,southampton
+588,0,3,"García, Mrs. Emily",Female,42.1,0,0,LINE 67625,19.19,,s
+589,0,2,"Ramírez, Mr. Thomas",male,20.0,1,0,SOTON 31954,13.04,,southampton
+590,1,3,"Martínez, Mr. Robert",male,36.7,1,-1,PC 16425,8.47,, S 
+591,0,1,"Allen, Mr. Arthur",M,35.3,2,0,C.A. 42917,45.33,, S 
+592,0,3,"Hall, Mr. Edward",M,44.5,0,0,SOTON 78164,9.81,,Southampton
+593,0,3,"Scott, Mrs. Edith", female ,48.7,0,2,C.A. 11874,13.99,,S
+594,1,3,"Walker, Mrs. Camila",f,42.5,2,0,C.A. 56794,8.82,,s
+595,1,3,"López, Mr. William",MALE,24.7,0,0,STON/O2 5729,7.95,, S 
+596,1,3,"King, Mrs. Helen",FEMALE,45.8,0,0,C.A. 6479,17.11,,q
+597,1,2,"García, Miss. Margaret",Female,null,0,0,W./C. 85214,39.54,,S
+598,0,3,"Wilson, Mr. Carlos",MALE,null,1,0,C.A. 75686,5.80,,S
+599,0,3,"Evans, Mr. Carlos",M,15.9,0,0,STON/O2 94258,12.19,, C 
+600,0,3,"Martínez, Mr. Samuel",male,null,5,0,A/5 35945,11.80,,southampton
+601,0,1,"Hernández, Mr. Daniel",M,42.0,1,2,A/5 36617,113.52,, S 
+602,0,3,"Roberts, Mr. Daniel", male ,48.3,1,0,W./C. 6009,25.93,,Southampton
+603,1,1,"Wilson, Mr. George", male ,null,0,0,C.A. 36169,58.04,E75,queenstown
+604,0,3,"Green, Mr. Robert",m,5.9,0,0,LINE 75579,38.99,,cherbourg
+605,1,3,"Evans, Mrs. Elena",F,unknown,0,1,C.A. 78562,12.99,, C 
+606,1,2,"Young, Mr. Arthur", male ,30.6,0,1,PC 6966,41.03,,southampton
+607,0,3,"Wright, Miss. Margaret",female,6.9,0,0,SOTON 9908,19.62,,S
+608,1,1,"Davies, Miss. Helen",F,3.1,1,0,SOTON 88745,41.88,C135,s
+609,1,3,"King, Mrs. María",FEMALE,31.5,0,0,PC 13443,15.36,,q
+610,0,1,"Martínez, Mr. Carlos",male,19.7,0,0,W./C. 42693,23.24,,southampton
+611,0,3,"Young, Mr. Carlos",m,thirty,0,0,STON/O2 94685,14.92,,S
+612,0,3,"Martin, Mrs. Ethel",Female,37.6,0,0,W./C. 81624,9.25,, S 
+613,0,2,"Allen, Mr. Carlos", male ,39.5,0,3,W./C. 75349,34.76,,Southampton
+614,1,1,"Martínez, Mrs. Edith",f,35.7,2,0,SOTON 51838,130.65,,S
+615,0,1,"Scott, Mr. Carlos",m,null,1,1,A/5 73101,103.50,, S 
+616,0,1,"Johnson, Miss. Isabella",f,14.5,0,0,W./C. 87331,13.75,,cherbourg
+617,1,First,"Evans, Miss. Anna",female,,0,0,A/5 87926,9.70,,Southampton
+618,0,3,"García, Mr. Henry",m,unknown,0,0,LINE 62012,13.03,,s
+619,0,3,"Brown, Mrs. Edith",F,38.5,0,0,SOTON 21947,12.13,,Cherbourg
+620,1,3,"López, Mr. William",M,31.9,0,0,PC 54195,24.29,,
+621,1,3,"Young, Mr. Daniel",male,12.8,0,0,A/5 30240,14.01,,Q
+622,1,3,"Allen, Miss. Edith",F,3.0,0,0,PC 53396,12.99,,cherbourg
+623,0,1,"García, Mr. Henry",m,27.0,0,1,STON/O2 72056,151.45,, S 
+624,1,1,"Roberts, Mrs. Helen",Female,36.9,0,1,SOTON 81448,95.70,, S 
+625,1,3,"Allen, Mr. Thomas",Male,35.6,0,0,W./C. 21399,N/A,,C
+626,0,2,"Lewis, Mr. Charles",male,47.6,0,0,SOTON 8470,16.65,,Southampton
+627,0,3,"Roberts, Mr. Robert",m,27.9,3,1,LINE 49370,7.68,,Q
+628,0,3,"Martínez, Mr. James", male ,28.2,0,0,A/5 48523,15.88,, S 
+629,0,3,"Scott, Miss. Sofía",FEMALE,24.3,0,0,STON/O2 84890,14.65,,s
+630,1,3,"Wilson, Mrs. Anna",f,46.4,2,0,W./C. 55390,7.89,,s
+631,0,3,"Scott, Mr. Charles",MALE,36.8,0,0,SOTON 84855,14.72,,southampton
+632,1,3,"Hall, Mr. Charles",MALE,null,0,0,C.A. 56588,29.41,, S 
+633,1,3,"Scott, Mr. Samuel",M,38.1,0,0,W./C. 26113,22.11,, S 
+634,1,3,"Brown, Mr. Luis", male ,13.0,0,0,PC 39818,12.15,, S 
+635,0,1,"Roberts, Mr. Arthur",Male,54.6,0,0,SOTON 66165,74.89,,S
+636,0,2,"Thomas, Mr. Miguel",M,34.5,2,0,W./C. 83420,10.15,,C
+637,0,3,"López, Mr. Daniel",male,40.0,0,0,PC 36584,5.15,, S 
+638,1,3,"López, Miss. Ethel", female ,0.3,0,0,A/5 34930,6.37,,Southampton
+639,1,3,"Smith, Miss. Ethel",Female,N/A,0,0,PC 27626,11.18,,cherbourg
+640,0,1,"Smith, Mr. Arthur",Male,N/A,0,0,A/5 31991,164.21,,southampton
+641,0,2,"Evans, Mr. Robert",male,0.3,0,0,W./C. 21214,10.66,E153,S
+642,1,1,"Allen, Miss. Margaret",f,22.2,0,1,C.A. 99408,192.68,, C 
+643,0,3,"Roberts, Mr. Samuel", male ,unknown,2,0,SOTON 12877,4.72,,Southampton
+644,No,3,"Thomas, Mr. Henry",M,44.4,0,0,LINE 48646,67.77,,Southampton
+645,1,3,"Allen, Mrs. Anna",f,43.6,0,0,STON/O2 11307,17.92,,q
+646,1,1,"Roberts, Mr. Carlos",MALE,unknown,0,0,SOTON 24129,89.92,,s
+647,0,3,"Young, Mrs. Sofía",FEMALE,N/A,0,0,SOTON 79437,13.72,,southampton
+648,0,3,"Smith, Mr. James", male ,44.4,0,0,SOTON 85102,20.22,,s
+649,0,2,"Green, Mr. Robert",m,,0,0,SOTON 16046,41.56,,s
+650,1,3,"Green, Miss. Edith",FEMALE,22.2,0,0,LINE 98842,36.72,,cherbourg
+651,1,3,"Green, Mrs. Elizabeth",f,40.7,1,2,C.A. 90471,39.81,,C
+652,0,2,"Lewis, Mr. George",M,22.8,0,0,LINE 6525,7.95,,Southampton
+653,0,3,"Walker, Mr. William",M,23.9,3,0,C.A. 41737,21.88,,S
+654,1,3,"Scott, Mr. Thomas", male ,31.4,0,0,A/5 48525,8.38,,cherbourg
+655,1,3,"Young, Miss. Camila",F,12.4,0,0,W./C. 40653,13.26,,Queenstown
+656,0,3,"Johnson, Mrs. Edith",female,25.3,1,0,W./C. 27960,23.64,,S
+657,0,2,"Wright, Mr. Arthur",MALE,26.8,1,0,C.A. 55386,57.60,,southampton
+658,0,3,"Walker, Mrs. Emily",F,45.0,0,0,C.A. 32237,6.03,,S
+659,0,3,"García, Mr. George",male,38.7,1,3,LINE 37140,3.58,,s
+660,0,3,"Ramírez, Mr. Edward", male ,0.3,0,0,LINE 31342,13.98,,S
+661,0,3,"López, Mrs. Mary",Female,38.1,3,0,PC 7149,5.29,, S 
+662,1,3,"Clark, Mrs. Isabella",f,29.4,0,0,PC 89136,6.58,,southampton
+663,1,2,"Young, Mrs. Anna",FEMALE,,1,0,PC 98500,132.95,, S 
+664,1,2,"Taylor, Mrs. Anna",Female,35.0,1,0,W./C. 22131,14.12,,Q
+665,1,3,"King, Mrs. Alice",female,null,0,0,SOTON 91357,19.46,,Southampton
+666,1,1,"Brown, Mr. Miguel",MALE,null,0,0,A/5 83987,105.91,,Southampton
+667,0,3,"Martínez, Mr. Henry",m,31.0,0,0,C.A. 51195,10.59,,S
+668,1,3,"Lewis, Mr. John",m,36.1,0,0,STON/O2 21993,19.95,,s
+669,1,3,"Young, Miss. Emily",F,24.6,0,0,W./C. 96309,36.95,,s
+670,1,1,"Allen, Mr. William",M,30.6,1,0,C.A. 50423,33.46,,S
+671,0,2,"Green, Mr. Samuel",MALE,null,4,2,C.A. 17189,28.14,, S 
+672,1,3,"Young, Mr. Thomas",male,29.3,5,0,PC 7023,28.90,,c
+673,0,2,"Brown, Mr. John", male ,null,0,1,W./C. 30487,26.13,,Southampton
+674,1,2,"Johnson, Mrs. Edith", female ,51.8,0,3,A/5 23441,47.28,,Southampton
+675,0,3,"Thomas, Mr. James",m,38.1,1,0,W./C. 83860,11.80,,
+676,0,3,"Young, Mr. George",male,4.5,0,0,STON/O2 56691,17.65,,southampton
+677,1,2,"Smith, Mr. Alejandro",m,68.5,0,0,SOTON 71736,62.62,,s
+678,0,3,"Brown, Mr. Samuel",MALE,56.5,0,2,A/5 46308,22.70,,s
+679,0,1,"Martin, Mrs. Elizabeth",Female,27.1,0,0,STON/O2 57292,169.35,, C 
+680,0,3,"Hernández, Mr. Samuel",m,33.6,4,1,PC 42182,16.93,,Southampton
+681,1,1,"Davies, Mr. Miguel",Male,N/A,0,0,A/5 16819,37.24,,Southampton
+682,0,3,"Taylor, Mr. Arthur",male,13.7,0,0,C.A. 34388,25.38,,Southampton
+683,1,1,"Young, Mr. Alejandro",M,27.5,0,0,A/5 69600,47.92,,Southampton
+684,1,3,"Wilson, Mrs. Florence",FEMALE,34.2,1,1,C.A. 98211,8.75,,c
+685,1,2,"Smith, Mr. Arthur",m,,0,1,W./C. 86982,9.62,,Southampton
+686,1,1,"Martínez, Mr. George",Male,57.6,0,0,STON/O2 64382,96.22,, Q 
+687,0,2,"Allen, Mr. Miguel",MALE,27.0,0,0,A/5 4635,29.47,, C 
+688,0,3,"Evans, Mr. Robert", male ,22.0,1,0,C.A. 5570,30.88,,s
+689,1,3,"Ramírez, Mr. Charles",Male,9.6,0,0,STON/O2 44381,8.34,,S
+690,0,1,"Johnson, Mrs. Helen",f,39.2,2,1,SOTON 53878,71.85,,s
+691,1,3,"Wright, Mr. John",Male,33.1,0,0,C.A. 97206,10.79,,Southampton
+692,0,3,"López, Mr. Robert",m,41.1,0,0,LINE 80055,7.94,,southampton
+693,1,3,"García, Mrs. Elena",Female,38.1,0,2,A/5 12444,5.16,,S
+694,1,1,"Martin, Mr. James",M,36.5,0,2,W./C. 38291,146.03,,Cherbourg
+695,1,2,"Davies, Miss. María",female,8.1,0,0,STON/O2 70848,91.34,F124,queenstown
+696,0,3,"Scott, Mr. Henry",male,3.9,0,0,STON/O2 68530,43.89,,c
+697,0,3,"Hernández, Mr. Arthur",Male,4.9,0,0,PC 98266,13.14,,southampton
+698,1,3,"Hernández, Mrs. Isabella",FEMALE,45.6,0,0,SOTON 81884,10.66,,c
+699,0,2,"Thomas, Mr. James",M,4.5,0,0,A/5 15446,14.20,,southampton
+700,0,3,"López, Mrs. Anna",f,39.4,1,0,SOTON 75059,6.95,,s
+701,0,3,"Young, Mr. Luis",Male,17.9,0,0,LINE 28338,12.28,,southampton
+702,1,1,"Hall, Mr. James", male ,46.1,0,0,C.A. 29753,80.38,,cherbourg
+703,1,2,"Martin, Mrs. Anna",F,null,0,0,A/5 93995,22.96,,C
+704,0,3,"López, Mr. Alejandro", male ,28.1,0,0,STON/O2 41562,8.86,, S 
+705,0,3,"Young, Mr. Carlos",M,N/A,0,0,SOTON 1165,27.10,,Southampton
+706,0,3,"Scott, Mr. Miguel",male,20.9,0,0,STON/O2 13160,18.63,,s
+707,1,3,"Allen, Mrs. María", female ,49.4,0,2,LINE 63227,16.81,,Queenstown
+708,0,1,"Johnson, Mr. Thomas",MALE,65.5,0,1,C.A. 77093,12.49,,Cherbourg
+709,0,1,"Walker, Miss. Mary",f,22.5,0,0,STON/O2 99174,236.58,, Q 
+710,1,1,"Thomas, Miss. Margaret", female ,24.3,3,0,STON/O2 89383,104.38,,S
+711,0,2,"Martin, Mr. Alejandro",M,9.4,1,0,A/5 2970,30.78,,S
+712,0,3,"Clark, Mr. Charles",M,23.1,1,0,C.A. 41965,28.82,,southampton
+713,1,3,"Evans, Mr. George",Male,unknown,0,0,PC 49246,-1,, S 
+714,1,3,"Johnson, Mr. Carlos", male ,,1,0,C.A. 52314,31.10,, S 
+715,1,3,"Hall, Mr. William", male ,34.3,0,0,SOTON 85090,9.46,,S
+716,0,3,"López, Mr. Charles",m,35.8,0,0,W./C. 86504,6.61,,Southampton
+717,0,3,"Lewis, Mr. James",M,29.5,1,0,PC 70670,14.01,,southampton
+718,0,1,"Martin, Mr. James",M,40.9,0,0,W./C. 2474,150.56,, S 
+719,0,3,"Scott, Mr. Charles",Male,25.1,3,1,C.A. 56645,16.12,,s
+720,0,1,"Allen, Mr. Thomas",MALE,49.6,0,0,C.A. 54628,116.60,,Southampton
+721,0,3,"García, Mrs. Alice", female ,999,0,0,W./C. 17260,9.78,,southampton
+722,1,3,"Martin, Miss. Edith",Female,11.3,0,0,A/5 49916,25.79,,s
+723,1,1,"Lewis, Mrs. Elena",F,54.6,0,0,A/5 47440,42.50,, C 
+724,0,3,"Young, Mr. Thomas",Male,1.9,0,0,W./C. 16631,7.48,, S 
+725,1,2,"Martínez, Mr. Henry",male,57.6,0,0,C.A. 5161,10.47,F127,southampton
+726,0,3,"Roberts, Mr. Thomas",male,14.9,0,0,STON/O2 77809,32.21,,S
+727,0,3,"Clark, Miss. Alice",f,22.7,0,,LINE 82414,17.22,, C 
+728,0,3,"García, Mr. Luis",M,unknown,0,0,W./C. 99607,18.94,, S 
+729,0,2,"López, Mr. Alejandro",m,,1,0,SOTON 71699,10.53,,S
+730,0,3," Johnson, Mr. Henry ",M,16.6,0,0,C.A. 5572,7.13,,Southampton
+731,1,1,"Hall, Mr. Alejandro",MALE,7.4,0,0,C.A. 23477,188.37,, S 
+732,1,1,"Roberts, Mr. Thomas",Male,8.5,0,1,STON/O2 90008,62.00,,s
+733,1,1,"Smith, Mr. Robert",male,22.4,1,0,PC 1770,61.26,,Queenstown
+734,0,2,"Taylor, Mr. Thomas",Male,10.5,2,0,C.A. 57010,31.05,, C 
+735,1,2,"King, Mr. John",m,27.7,0,0,W./C. 10998,30.13,,Cherbourg
+736,1,1,"Evans, Mrs. Anna",Female,54.0,2,2,STON/O2 94739,55.27,,s
+737,0,3,"Allen, Mr. Arthur",male,24.7,0,0,PC 97663,9.39,,Cherbourg
+738,0,3,"Clark, Mr. Robert", male ,43.9,4,0,LINE 90291,8.15,,southampton
+739,1,3,"Hernández, Miss. Anna",FEMALE,,1,1,PC 53317,12.71,, C 
+740,0,2,"Roberts, Miss. Lucía",FEMALE,0.3,1,0,PC 37283,30.11,,Southampton
+741,0,2,"Ramírez, Mr. Alejandro",MALE,56.9,0,0,C.A. 11945,39.25,,s
+742,0,3,"Hall, Mr. Henry",Male,49.2,0,0,PC 44550,11.66,, S 
+743,0,3,"Taylor, Mr. Samuel",MALE,28.9,0,0,C.A. 47619,11.44,,southampton
+744,0,2,"Davies, Mr. Charles",male,31.4,1,2,W./C. 45764,43.39,,S
+745,1,1,"Evans, Mrs. Edith",F,unknown,1,0,A/5 73363,121.47,,Queenstown
+746,0,2nd,"Green, Mr. Charles", male ,34.0,0,0,C.A. 90653,7.45,,Q
+747,0,3,"Wright, Mr. James",Male,39.1,0,4,STON/O2 66217,8.63,,Cherbourg
+748,1,1,"Wilson, Mrs. Edith",f,unknown,0,0,A/5 35000,25.94,,s
+749,1,1,"Clark, Mr. Samuel", male ,21.9,0,2,STON/O2 55475,32.78,,S
+750,0,2,"Lewis, Mr. Thomas",MALE,28.5,0,1,W./C. 25889,33.66,, S 
+751,0,1,"Scott, Mr. Thomas",M,null,0,0,A/5 1515,88.40,A77, S 
+752,1,2,"Thomas, Mrs. Ethel",Female,57.7,0,1,STON/O2 88412,40.20,,Southampton
+753,0,3,"Davies, Mr. Luis",m,9.2,4,0,C.A. 95037,6.75,,southampton
+754,0,3,"López, Mr. Miguel",Male,13.6,0,0,C.A. 3252,15.43,,S
+755,0,3,"Martin, Mr. Charles",male,-3,0,3,STON/O2 48407,2.06,,C
+756,0,3,"Martin, Mrs. Elizabeth",F,46.9,1,0,STON/O2 23447,14.67,,S
+757,1,3,"Johnson, Mr. James",M,2.5,0,0,SOTON 21153,7.49,,S
+758,1,2,"Young, Mrs. Camila",f,26.3,0,2,SOTON 32029,33.44,,Southampton
+759,0,2,"Brown, Mrs. Helen",f,61.6,0,0,W./C. 77287,20.18,, C 
+760,1,2,"Smith, Mr. Carlos", male ,7.9,1,0,C.A. 90038,18.87,,s
+761,0,3,"Wright, Mr. Samuel",male,null,0,1,A/5 46978,-1,,q
+762,0,2,"Allen, Mr. John", male ,20.8,0,2,PC 21518,41.22,,
+763,0,3,"López, Mr. Samuel",Male,38.1,0,0,LINE 29275,9.46,, S 
+764,0,1,"Evans, Mr. Luis",male,42.7,0,0,C.A. 95060,162.97,E76,s
+765,1,3,"Evans, Mrs. Elena",F,25.8,0,0,A/5 25721,44.18,,s
+766,0,3," Hernández, Mr. James ", male ,43.3,0,0,A/5 87985,8.72,,s
+767,0,3,"Thomas, Mrs. María",FEMALE,26.1,1,0,W./C. 88070,10.61,,Southampton
+768,1,3,"Martínez, Miss. Elizabeth",Female,11.8,0,0,PC 45681,2.52,, S 
+769,1,2,"Evans, Mr. John",M,59.2,1,0,A/5 42477,22.93,, S 
+770,1,3,"López, Mrs. Anna",FEMALE,44.9,1,0,STON/O2 31781,5.71,, S 
+771,1,3,"Smith, Miss. Sofía",f,23.9,0,0,STON/O2 23681,11.79,,c
+772,1,3,"Evans, Mrs. Margaret",female,26.0,0,0,W./C. 66455,4.76,,S
+773,0,2,"Wright, Mr. Arthur",M,16.1,2,2,SOTON 80477,14.87,,S
+774,0,3,"Wright, Mr. Carlos",MALE,32.8,0,0,C.A. 93955,11.02,,southampton
+775,0,3,"Wright, Mr. Thomas",Male,49.9,0,0,A/5 79875,11.48,,S
+776,0,3,"Young, Mr. Luis",M,34.1,1,0,LINE 10787,8.95,,Southampton
+777,0,3,"Green, Mrs. Mary",F,39.1,0,0,SOTON 72512,19.98,,Southampton
+778,1,3,"Scott, Mr. John",male,36.4,0,0,C.A. 53010,19.76,, S 
+779,1,1,"Green, Miss. Emily", female ,,0,2,W./C. 45915,177.17,,southampton
+780,1,3,"Scott, Mr. Miguel",Male,2.8,1,1,W./C. 97948,8.36,,C
+781,0,1,"Scott, Mr. Miguel",Male,40.3,3,0,A/5 98733,77.38,,s
+782,0,3,"Thomas, Mr. Daniel", male ,32.8,0,0,A/5 51743,23.41,,C
+783,0,1,"King, Mr. Alejandro",m,26.7,0,0,A/5 59136,185.56,,S
+784,1,3,"Walker, Mrs. Ethel", female ,41.1,0,0,A/5 31895,14.44,,southampton
+785,1,3,"Taylor, Miss. Mary", female ,7.2,0,1,PC 5709,27.06,, S 
+786,1,2,"Martin, Mrs. Elizabeth",female,34.6,1,1,LINE 67474,20.80,,southampton
+787,0,3,"Brown, Mr. Thomas",MALE,6.2,0,0,A/5 53574,40.43,,c
+788,0,3,"Thomas, Mr. James", male ,N/A,0,0,W./C. 65539,18.89,,Southampton
+789,1,3,"Roberts, Mr. Edward",Male,30.0,1,0,C.A. 76886,20.14,, S 
+790,0,3,"Walker, Mrs. María",Female,33.5,0,0,PC 26677,13.84,,s
+791,0,1,"Davies, Mr. Carlos", male ,unknown,0,0,SOTON 93822,50.16,,Q
+792,0,3,"Johnson, Mr. Alejandro",Male,37.7,1,0,PC 12876,19.84,,C
+793,1,3,"Davies, Miss. Helen",F,11.0,0,0,A/5 96970,5.57,, C 
+794,0,3,"Johnson, Mr. Thomas",male,31.9,0,0,PC 67848,30.63,,southampton
+795,1,1,"Martin, Miss. Lucía",F,2.5,0,2,PC 19637,34.46,B54,S
+796,1,2,"Lewis, Mrs. Isabella",f,45.1,0,1,STON/O2 36591,33.67,, S 
+797,1,3,"Taylor, Mr. George",Male,unknown,0,0,LINE 7665,7.44,,Southampton
+798,1,1,"Allen, Mrs. Sofía",f,39.0,0,0,PC 51685,105.94,,S
+799,0,3,"Ramírez, Mr. Miguel",MALE,,2,0,PC 6761,9.45,,s
+800,0,3,"Davies, Mr. Arthur",MALE,4.6,1,0,SOTON 12399,24.68,,Southampton
+801,0,1," López, Mr. Samuel ",m,36.9,0,0,C.A. 39390,59.46,E16,q
+802,0,3,"Young, Miss. Margaret", female ,14.7,0,0,A/5 66140,15.45,, S 
+803,0,1,"Young, Mr. George",M,2.5,1,2,W./C. 95928,38.65,, C 
+804,1,2,"Evans, Mrs. Elena",FEMALE,50.5,1,0,STON/O2 76530,23.74,,Queenstown
+805,0,2,"Davies, Mr. Carlos",MALE,,0,1,A/5 23472,26.88,,southampton
+806,1,3,"Martin, Mrs. Margaret", female ,50.1,0,0,W./C. 59804,15.44,,s
+807,1,3,"Walker, Mr. Alejandro",male,N/A,1,0,C.A. 98853,23.75,,southampton
+808,1,3,"Thomas, Mrs. Elena", female ,41.4,3,0,STON/O2 83140,11.26,,S
+809,0,3,"King, Mr. James",Male,N/A,0,0,PC 99028,15.26,,southampton
+810,0,3,"Young, Mr. Samuel",M,32.6,1,0,PC 73042,5.60,,s
+811,0,2,"Lewis, Mr. Alejandro", male ,39.1,0,0,STON/O2 72739,51.15,,S
+812,0,3,"Hernández, Mr. William",MALE,14.3,0,0,W./C. 85861,8.66,, C 
+813,0,3,"Hall, Mr. Robert",male,24.7,0,0,A/5 80010,12.83,,q
+814,0,1,"Roberts, Mr. Arthur",M,20.4,1,0,A/5 76360,72.93,,q
+815,1,3,"Walker, Mr. Henry",Male,44.7,0,0,A/5 22165,6.63,,southampton
+816,1,3,"Wilson, Mrs. Helen",female,32.5,2,0,W./C. 26005,11.25,,s
+817,1,2,"Johnson, Mr. John", male ,59.0,0,0,LINE 11687,29.05,E37, S 
+818,0,2,"Scott, Mrs. Alice",Female,30.5,0,1,C.A. 36894,7.43,,c
+819,1,3,"Roberts, Miss. Sofía", female ,6.1,0,0,PC 85090,11.62,, S 
+820,1,3,"Lewis, Mr. Samuel",Male,,1,0,PC 64599,14.03,,S
+821,0,2,"Brown, Mr. Charles",male,40.0,4,0,A/5 87893,39.49,,S
+822,1,2,"Evans, Mr. Edward",MALE,45.1,0,2,PC 57003,76.21,, S 
+823,0,2,"Roberts, Mr. John",MALE,16.6,1,0,C.A. 38751,27.85,,southampton
+824,1,2,"Smith, Miss. Florence",Female,N/A,3,0,W./C. 36172,50.21,,cherbourg
+825,1,2,"Taylor, Mr. William",male,15.9,0,0,W./C. 63911,25.27,,queenstown
+826,0,3,"Martínez, Mr. Carlos", male ,11.2,1,0,STON/O2 29078,12.84,,southampton
+827,0,3,"Ramírez, Mr. James",M,N/A,0,0,C.A. 16118,16.68,,southampton
+828,1,2,"Hernández, Mr. Arthur",m,47.9,0,0,W./C. 16803,8.02,,southampton
+829,1,3,"Green, Mr. Thomas",Male,N/A,0,0,PC 84793,26.66,,southampton
+830,1,3,"Ramírez, Miss. Mary",FEMALE,unknown,1,3,LINE 15207,13.85,,S
+831,1,1,"Roberts, Mrs. Isabella",female,28.2,1,0,SOTON 1444,32.70,,S
+832,0,3,"Clark, Mr. Charles",male,,0,0,C.A. 88609,11.49,,southampton
+833,1,1,"Martínez, Mr. John",Male,31.8,0,0,LINE 56780,27.20,,S
+834,1,2,"Davies, Mrs. Elena",F,,2,0,SOTON 26111,56.30,, S 
+835,0,2,"Smith, Mr. Thomas",M,46.5,1,0,LINE 39805,20.16,,Southampton
+836,0,2,"Martínez, Mr. Samuel",M,59.8,1,0,W./C. 47580,8.75,, S 
+837,0,3,"Evans, Mr. Miguel",MALE,36.6,2,2,STON/O2 57316,24.08,,
+838,0,1,"Brown, Mrs. Lucía",f,58.0,0,0,LINE 75010,58.24,,S
+839,1,3,"Davies, Miss. María",Female,24.0,2,1,C.A. 23196,5.51,,c
+840,1,3,"Wright, Mr. Samuel",male,24.7,2,0,A/5 90876,14.76,,cherbourg
+841,1,1,"López, Miss. Mary",F,24.3,0,0,STON/O2 31618,104.30,, C 
+842,0,3,"Scott, Mr. Henry",male,14.2,0,0,W./C. 72889,16.13,,s
+843,1,3,"Brown, Mr. Alejandro",M,null,1,0,C.A. 8174,7.26,,Cherbourg
+844,1,3,"Scott, Mrs. Helen",female,54.1,0,0,A/5 47774,21.33,, S 
+845,1,2,"Hall, Miss. Emily",FEMALE,11.0,0,0,C.A. 88748,19.32,, S 
+846,0,3,"Ramírez, Mr. Alejandro",Male,33.7,0,0,SOTON 56329,12.12,,Southampton
+847,1,1,"Clark, Mr. Edward",Male,17.2,1,0,STON/O2 15266,110.47,,southampton
+848,1,1,"King, Mrs. Isabella",F,33.6,1,0,W./C. 68918,122.43,,S
+849,0,3,"Walker, Mr. Robert",MALE,N/A,0,two,LINE 78996,7.44,,c
+850,0,3,"López, Mr. George",male,unknown,1,0,A/5 8522,2.18,,southampton
+851,1,3,"Lewis, Mrs. Lucía",Female,35.8,0,0,PC 49810,11.32,, S 
+852,1,3,"Wilson, Mr. Samuel",Male,7.8,0,0,LINE 16166,15.94,,S
+853,0,3,"Hall, Mr. Charles",MALE,17.6,0,1,C.A. 9530,26.96,, Q 
+854,1,3,"Ramírez, Mr. Samuel",m,29.1,0,0,W./C. 30718,12.29,, S 
+855,1,2,"Scott, Mrs. Edith",FEMALE,38.7,0,3,PC 90356,28.47,,S
+856,1,1,"Young, Miss. Margaret",Female,6.4,1,0,PC 80485,114.17,,Southampton
+857,1,2,"Thomas, Mr. George",male,42.2,1,0,STON/O2 84396,24.88,,Southampton
+858,0,1,"Wright, Mr. Alejandro",m,22.3,,2,W./C. 14279,30.86,,Southampton
+859,0,3,"Wright, Mr. William",Male,unknown,0,0,PC 9732,11.48,, C 
+860,0,3,"Clark, Mr. John",M,23.6,0,0,STON/O2 35324,24.41,,Southampton
+861,0,2,"Roberts, Mr. Edward",MALE,N/A,0,0,STON/O2 21667,19.72,,S
+862,0,2,"Thomas, Mr. Carlos",m,,1,0,SOTON 92708,36.78,,queenstown
+863,0,3,"Walker, Mr. James", male ,40.2,0,1,W./C. 11354,25.26,, S 
+864,0,2,"Martínez, Mr. Miguel",M,44.2,0,0,W./C. 12116,27.99,,s
+865,1,3,"Davies, Miss. Ethel",FEMALE,17.8,0,0,LINE 59055,25.49,,southampton
+866,0,1,"López, Mr. Edward", male ,41.5,0,2,PC 98983,105.62,,Cherbourg
+867,0,2,"Wright, Miss. Elizabeth",f,18.4,2,0,STON/O2 35376,35.13,,Queenstown
+868,0,2,"Hernández, Mr. Charles",M,29.9,1,4,LINE 98221,30.45,,Cherbourg
+869,0,3,"Hall, Mr. Miguel",male,52.7,1,0,C.A. 74709,11.62,,S
+870,0,2,"Davies, Mrs. Isabella",female,50.9,4,0,STON/O2 92270,13.95,,Southampton
+871,0,2,"Martin, Mr. Samuel",M,,1,2,A/5 75885,22.85,,S
+872,0,3,"Evans, Mr. Miguel",MALE,47.8,0,0,PC 35429,20.46,,Southampton
+873,1,2,"Thomas, Mr. Edward",male,,1,1,PC 9484,13.34,,Q
+874,0,2,"King, Mrs. Elizabeth",FEMALE,,0,0,STON/O2 5675,24.70,, S 
+875,1,3,"Martínez, Mr. James",M,24.5,0,3,SOTON 10004,10.71,,s
+876,0,2,"Allen, Mr. Charles",MALE,27.6,0,1,SOTON 17035,7.87,,southampton
+877,1,First,"Hernández, Mr. Carlos",male,34.4,1,0,SOTON 91013,14.81,,Southampton
+878,0,1,"Thomas, Mr. Edward",male,33.9,0,0,STON/O2 83577,142.36,,southampton
+879,1,3,"Thomas, Mrs. Ethel",Female,,1,2,W./C. 82569,4.77,,Cherbourg
+880,1,3,"Wright, Mrs. Alice",FEMALE,42.8,0,0,PC 98792,4.84,,S
+881,0,2,"Hall, Mr. Miguel",MALE,39.3,0,0,C.A. 47506,60.40,F47,southampton
+882,1,3,"Young, Miss. Anna",F,unknown,0,0,PC 92089,6.72,, S 
+883,0,3,"López, Mr. Miguel",MALE,42.0,0,0,STON/O2 52174,9.09,,S
+884,0,3,"Evans, Mrs. Florence",f,27.2,1,2,A/5 9618,11.36,,Southampton
+885,1,3," García, Mr. Alejandro ", male ,42.6,0,,C.A. 58736,39.55,,S
+886,0,3,"Clark, Mr. Thomas",M,23.7,1,1,W./C. 29537,9.77,, C 
+887,1,3,"Wright, Mr. Alejandro",Male,27.7,2,0,PC 80628,14.14,,southampton
+888,0,3,"Wilson, Mr. Alejandro",male,41.6,1,0,A/5 2480,9.75,,Southampton
+889,1,3,"Wright, Mrs. Isabella", female ,41.7,0,0,SOTON 90352,6.11,,C
+890,1,1,"Smith, Mr. William",m,36.7,1,0,SOTON 44427,114.23,A43,S
+891,1,3,"Young, Miss. Helen",f,13.1,3,0,A/5 1537,-1,,Southampton
+892,1,3,"Evans, Mrs. Margaret",female,40.6,0,0,LINE 19824,12.59,,
+893,0,3,"Hall, Mrs. Ethel",f,29.7,0,0,PC 26849,15.93,,S
+894,0,3,"Taylor, Mr. Robert",M,29.7,0,0,LINE 66355,36.88,,C
+895,0,3,"Green, Mr. James", male ,,1,0,STON/O2 94578,8.69,,S
+896,1,3,"Young, Miss. Emily",FEMALE,,0,0,C.A. 39333,23.74,, S 
+897,1,1,"Evans, Mr. Henry",M,N/A,1,0,C.A. 73969,60.26,D61,southampton
+898,0,2,"Evans, Mr. John",Male,null,0,0,C.A. 34540,43.88,D111,Southampton
+899,0,2,"Roberts, Mr. George",MALE,16.6,0,0,SOTON 30193,21.75,, S 
+900,0,3,"Walker, Mr. Edward", male ,28.7,1,0,PC 7922,19.12,,S
+901,0,1,"Evans, Mr. George",MALE,5.4,1,0,W./C. 65532,42.29,,Southampton
+902,0,3,"Thomas, Mr. Thomas",MALE,25.1,5,2,C.A. 45825,4.76,,S
+903,0,3,"Lewis, Miss. Isabella",female,null,2,0,A/5 35879,22.38,,s
+904,0,1,"Lewis, Mr. William",M,34.9,0,1,W./C. 59109,85.40,,S
+905,0,3,"Davies, Mrs. Florence",female,59.1,0,4,W./C. 41735,20.20,,southampton
+906,0,3,"Scott, Mr. Alejandro",MALE,unknown,0,2,C.A. 49781,6.34,,C
+907,0,3,"Green, Mr. Robert",male,41.0,0,0,SOTON 58519,13.65,,Cherbourg
+908,1,3,"Taylor, Mrs. Alice",F,40.1,1,2,PC 58438,6.75,,Southampton
+909,1,1,"Allen, Mr. Miguel",M,,0,2,STON/O2 2133,117.18,B55,southampton
+910,1,2,"Young, Mr. Robert", male ,42.2,3,0,A/5 55613,21.44,,Southampton
+911,0,2,"Green, Mrs. Margaret",FEMALE,42.6,0,1,PC 37985,29.67,,Southampton
+912,1,2,"Lewis, Miss. Camila",female,unknown,0,1,W./C. 16541,11.20,, S 
+913,0,1,"Davies, Miss. Sofía",Female,23.9,4,0,SOTON 74378,60.85,,southampton
+914,1,3,"Taylor, Mr. Edward",MALE,10.4,0,0,W./C. 36264,9.58,,southampton
+915,1,3,"Lewis, Mr. Daniel",MALE,26.3,0,0,LINE 94192,2.96,,Q
+916,0,3,"López, Mr. Luis",m,37.2,0,0,A/5 39392,11.19,,Queenstown
+917,0,2,"Allen, Mr. Arthur",M,29.3,0,0,C.A. 14656,38.39,F24,Southampton
+918,0,1,"Thomas, Mr. Samuel", male ,29.6,1,2,PC 2869,45.07,,queenstown
+919,1,3,"Ramírez, Miss. Helen",F,19.7,0,0,PC 3076,7.97,,Cherbourg
+920,1,1,"Walker, Mr. Samuel",male,44.1,1,3,PC 73812,98.10,,Southampton
+921,0,3,"Johnson, Mr. James",MALE,35.9,3,0,STON/O2 15632,4.49,,Queenstown
+922,0,1,"Davies, Mr. Henry", male ,unknown,0,0,LINE 39638,164.44,,S
+923,0,3,"Ramírez, Mr. Alejandro",MALE,34.8,1,0,W./C. 57991,9999,, S 
+924,0,3,"Brown, Mr. Carlos", male ,null,0,0,W./C. 77747,35.51,,Southampton
+925,0,2,"Smith, Mr. James",male,37.0,0,0,C.A. 79967,45.61,F102,c
+926,0,1,"López, Mr. James",male,46.5,0,0,C.A. 83361,93.75,D97,c
+927,1,2,"Taylor, Mr. Edward",M,N/A,0,0,LINE 65372,31.21,F149, S 
+928,0,1,"Walker, Mr. Samuel",MALE,40.0,1,0,W./C. 91125,89.76,B51,southampton
+929,1,3," Walker, Mrs. Helen ", female ,null,0,0,STON/O2 38387,16.30,,S
+930,1,2,"López, Mr. John",m,,1,0,LINE 25922,19.96,,cherbourg
+931,1,3,"López, Mrs. Elizabeth",f,49.7,0,0,W./C. 23748,11.47,,S
+932,1,1," Roberts, Miss. Lucía ", female ,18.5,1,0,W./C. 18561,56.59,,s
+933,1,1,"Ramírez, Mrs. Helen",f,53.8,1,1,PC 22694,73.36,,southampton
+934,1,2,"Allen, Mrs. Edith",F,null,0,0,C.A. 26552,14.96,,Cherbourg
+935,0,3,"García, Mr. Miguel",male,32.6,4,0,W./C. 95155,18.27,,s
+936,1,3,"Young, Mrs. Florence",FEMALE,null,0,3,SOTON 92923,20.42,,s
+937,0,3,"Johnson, Mr. Arthur",MALE,40.0,1,two,PC 93933,34.52,,c
+938,0,2,"King, Mr. William",m,unknown,1,0,W./C. 83101,26.53,E69,Southampton
+939,0,3,"Allen, Mr. Carlos",m,31.1,3,0,LINE 12855,18.36,,Southampton
+940,1,3,"Ramírez, Mrs. Lucía",F,39.8,0,0,STON/O2 32651,25.53,,s
+941,1,3,"López, Mrs. Margaret",f,55.9,2,0,PC 3697,7.20,, S 
+942,0,3,"Scott, Miss. Helen",female,18.2,0,1,A/5 47993,11.63,,cherbourg
+943,0,1,"Taylor, Mr. Luis",male,7.7,0,0,A/5 75624,78.09,B80,S
+944,0,1,"Walker, Mr. Thomas",male,43.1,0,0,SOTON 99915,69.14,E140,s
+945,1,2,"Thomas, Mr. Robert",MALE,N/A,2,0,LINE 99797,57.25,,S
+946,0,3,"Davies, Mr. Robert",Male,54.7,0,2,LINE 67072,8.06,, Q 
+947,0,1,"Johnson, Mr. Samuel",m,15.5,0,1,STON/O2 3030,60.95,, C 
+948,0,2,"Young, Mrs. Edith",female,46.3,2,two,SOTON 90342,45.52,,Southampton
+949,1,3,"Martin, Mrs. Ethel",Female,35.1,1,2,STON/O2 46796,10.31,, S 
+950,0,2,"Wilson, Mr. John",M,16.4,1,0,SOTON 73503,13.17,D58,q
+951,1,1,"Johnson, Mr. James",m,54.5,0,1,PC 88890,77.38,,southampton
+952,0,2,"Allen, Mr. Henry",male,unknown,0,0,C.A. 38275,17.85,, S 
+953,0,3,"García, Mr. William",Male,17.4,0,0,STON/O2 75525,15.17,,Southampton
+954,0,3,"Green, Mr. Thomas", male ,25.0,0,0,W./C. 18175,6.74,, S 
+955,1,3,"Smith, Mrs. Lucía", female ,36.7,0,2,A/5 53773,8.54,, S 
+956,1,2,"Wilson, Mr. George",MALE,25.6,0,0,PC 72472,23.38,, S 
+957,1,3,"Hernández, Mrs. Anna", female ,25.6,0,0,W./C. 71273,5.91,, S 
+958,1,2,"King, Mr. Alejandro", male ,17.1,0,0,A/5 82427,16.27,, S 
+959,0,3,"Taylor, Mr. Robert", male ,42.2,0,0,LINE 18649,8.27,,S
+960,1,1,"Taylor, Mrs. Elena",female,51.5,4,2,C.A. 59303,58.28,, S 
+961,1,1,"Young, Mr. John",m,32.3,0,0,W./C. 93721,41.78,E63,Cherbourg
+962,0,1,"Davies, Mr. Edward",m,59.0,1,0,C.A. 92089,53.27,,q
+963,1,1,"Taylor, Mrs. Isabella",FEMALE,null,0,1,PC 31371,77.31,,Southampton
+964,1,3,"Thomas, Mrs. Elizabeth",FEMALE,34.4,0,1,LINE 15663,6.23,,S
+965,0,3,"Martínez, Mr. Miguel",m,-3,1,0,W./C. 25721,11.93,,Queenstown
+966,0,3,"Green, Mrs. Ethel", female ,38.8,0,0,SOTON 55553,11.54,,s
+967,1,1,"López, Mrs. Elizabeth",F,31.3,0,0,W./C. 19867,69.76,,southampton
+968,1,3,"Green, Mr. Miguel",Male,3.5,1,0,PC 7061,17.32,,Southampton
+969,0,3,"King, Mr. Charles",M,65.9,0,0,LINE 52979,14.17,,Q
+970,0,3,"Evans, Mr. Miguel",Male,26.4,0,2,A/5 41821,38.45,,S
+971,0,1,"Wright, Mr. Samuel",MALE,,0,0,STON/O2 87494,132.35,, C 
+972,1,3,"García, Mr. Charles",male,4.1,1,0,SOTON 22874,12.11,,Q
+973,0,3,"Johnson, Mr. Robert",Male,28.6,1,0,C.A. 63918,6.44,,C
+974,0,2,"Hall, Mr. Alejandro",M,null,0,0,C.A. 67248,12.65,,cherbourg
+975,1,2,"Hernández, Miss. Sofía",f,8.4,0,0,SOTON 33326,16.98,,s
+976,1,3,"Hall, Mr. James", male ,40.4,1,0,PC 50738,14.17,,s
+977,0,2,"Davies, Mr. Luis", male ,15.6,0,2,LINE 6033,30.81,,C
+978,0,1,"Davies, Mr. Arthur",MALE,41.6,0,0,LINE 6119,126.63,,southampton
+979,1,2,"Hall, Mrs. Helen",FEMALE,26.7,0,0,LINE 71381,11.46,,Cherbourg
+980,1,2,"Young, Mrs. Anna",Female,47.7,0,0,PC 81826,7.41,,S
+981,0,3,"Hall, Mr. Samuel",m,N/A,0,0,SOTON 8565,13.09,E172,Southampton
+982,1,3,"King, Mr. Henry",Male,N/A,1,0,LINE 34109,8.81,,s
+983,1,2,"Scott, Mr. Arthur",M,26.3,0,3,PC 60541,10.77,,Southampton
+984,0,3,"Thomas, Mr. Edward",MALE,38.0,0,0,SOTON 2962,30.10,,southampton
+985,0,2,"Hall, Mrs. Edith",f,33.1,0,0,LINE 6502,26.23,,s
+986,0,3,"King, Miss. Edith",FEMALE,null,0,0,PC 10680,15.52,,
+987,0,3,"Walker, Mr. Arthur",M,14.4,1,3,PC 23658,4.95,,
+988,0,2,"Taylor, Mr. Arthur",MALE,17.6,0,0,C.A. 76350,42.00,,Southampton
+989,1,3,"Johnson, Mr. William",MALE,27.5,1,0,STON/O2 96558,18.39,G35,S
+990,1,3,"Martínez, Mrs. Margaret",Female,33.4,0,0,A/5 82085,11.62,,southampton
+991,0,1,"Green, Mr. James",male,10.0,1,0,PC 64074,109.14,,c
+992,0,3,"Wright, Mr. Carlos",m,32.1,1,2,W./C. 58838,13.05,,s
+993,1,1,"Young, Miss. Isabella", female ,9.7,2,1,W./C. 4717,113.74,E24,s
+994,0,1,"Scott, Mr. Daniel",Male,null,0,0,STON/O2 3417,45.03,,s
+995,1,3,"Green, Mr. Alejandro", male ,51.6,0,0,C.A. 95170,13.30,, S 
+996,0,3,"López, Miss. Florence",F,23.7,1,2,W./C. 89376,15.16,,c
+997,0,3,"López, Mr. Charles",Male,25.3,1,0,C.A. 32670,6.79,,southampton
+998,0,3,"Green, Mr. James",MALE,26.3,1,0,A/5 56005,15.04,, S 
+999,1,1,"Clark, Mrs. Sofía",female,32.2,0,1,C.A. 49167,91.14,,S
+1000,0,1,"Wright, Mr. Samuel",Male,40.6,0,0,A/5 77411,127.48,,southampton
+1001,0,3,"Taylor, Mr. Alejandro",MALE,11.2,1,0,A/5 72027,6.14,,southampton
+1002,1,1,"Davies, Mr. John", male ,N/A,2,0,LINE 21678,126.59,,southampton
+1003,1,3,"Roberts, Mrs. Camila",female,50.4,0,0,W./C. 47150,19.61,,s
+1004,0,1,"Smith, Mr. Carlos",,null,2,0,C.A. 29095,225.20,,s
+1005,1,3,"Allen, Mrs. Elizabeth",female,56.1,1,0,PC 65042,1.85,,
+1006,0,3,"Johnson, Mr. Arthur",M,null,1,0,LINE 37625,2.56,,Southampton
+1007,0,3,"Roberts, Mr. Miguel",M,42.7,1,0,W./C. 30632,16.65,,Southampton
+1008,1,3,"Davies, Mrs. Ethel",FEMALE,33.6,0,2,PC 65325,12.56,,s
+1009,0,2,"Martin, Mr. John", male ,22.3,0,0,C.A. 13507,25.26,, S 
+1010,1,1,"Evans, Mr. George",male,unknown,1,0,STON/O2 94703,123.88,,southampton
+1011,1,2,"Taylor, Mr. Samuel",M,27.4,0,0,LINE 78036,51.16,,S
+1012,0,3,"Green, Mr. James",M,20.9,0,2,SOTON 47078,17.31,,s
+1013,0,2,"Lewis, Mr. Samuel",MALE,null,2,0,W./C. 47851,11.71,, Q 
+1014,1,3,"Brown, Mrs. Florence",female,30.5,0,0,C.A. 76375,23.44,,queenstown
+1015,1,1,"Clark, Mrs. Sofía",FEMALE,41.5,0,2,A/5 21860,104.36,, S 
+1016,0,3,"Clark, Mr. Thomas",MALE,,0,1,W./C. 46964,14.70,,
+1017,1,3,"López, Mr. George",male,null,0,0,LINE 37402,5.49,,s
+1018,1,3,"Smith, Mr. Miguel",MALE,31.8,1,0,A/5 92401,20.04,,C
+1019,1,2,"Scott, Mr. Henry",MALE,13.6,0,0,A/5 56437,11.77,,Southampton
+1020,1,1,"Smith, Mrs. Ethel",Female,unknown,0,0,SOTON 29058,129.90,,Queenstown
+1021,1,3,"Lewis, Miss. Anna",FEMALE,24.7,2,0,STON/O2 97033,8.53,,
+1022,0,1st,"Ramírez, Mr. Luis",MALE,34.4,2,0,A/5 70226,33.01,,southampton
+1023,0,3,"Johnson, Mr. Alejandro",M,16.3,0,0,C.A. 57579,20.76,,S
+1024,1,3,"Martínez, Mr. Edward",Male,0.3,1,0,PC 99824,7.95,,S
+1025,0,3,"Young, Mr. Thomas",MALE,20.6,0,0,W./C. 36939,15.40,,Southampton
+1026,1,3,"Hernández, Miss. Helen",female,unknown,0,0,SOTON 38246,10.68,, C 
+1027,0,3,"Hall, Mr. Thomas",Male,51.8,0,0,W./C. 53619,13.42,, S 
+1028,1,1,"Lewis, Mr. Arthur",MALE,42.4,0,N/A,SOTON 13169,71.26,,Southampton
+1029,0,3,"Ramírez, Mr. Arthur",male,12.7,-1,1,C.A. 39900,5.65,F33, S 
+1030,0,1,"García, Mr. William",m,19.3,0,0,STON/O2 1244,157.37,,S
+1031,1,3,"Roberts, Miss. Ethel",FEMALE,19.8,0,2,STON/O2 79267,10.89,,S
+1032,0,3,"Wilson, Mr. George",Male,29.2,0,0,W./C. 87667,18.62,,southampton
+1033,0,3,"Walker, Mr. Edward",MALE,5.8,0,0,C.A. 45770,13.39,,Southampton
+1034,0,3,"Hall, Mrs. Mary", female ,27.0,0,1,C.A. 91581,10.67,, S 
+1035,0,2,"Lewis, Mr. Thomas",Male,27.8,1,3,C.A. 87844,17.69,,Southampton
+1036,0,3,"Hernández, Mr. William", male ,null,0,2,STON/O2 67803,10.95,,
+1037,0,3,"Hall, Mr. Carlos",male,15.4,0,0,PC 9544,12.47,, S 
+1038,1,1,"Smith, Mr. Daniel",Male,31.3,3,0,C.A. 40815,70.20,,s
+1039,1,3,"Green, Mr. Thomas",M,-3,0,0,C.A. 28549,21.55,,S
+1040,0,1,"Johnson, Mrs. Helen",Female,34.3,1,0,SOTON 30479,83.39,,s
+1041,0,3,"López, Mr. Charles",male,22.6,0,1,W./C. 24578,15.68,,Queenstown
+1042,1,1,"Walker, Mrs. Ethel",F,33.6,0,0,C.A. 97305,98.18,,southampton
+1043,0,3,"King, Mr. William",M,8.4,0,0,LINE 28533,70.20,,s
+1044,1,3,"Scott, Mrs. Helen",F,null,2,0,LINE 79098,14.11,,Southampton
+1045,1,3,"Walker, Mrs. Anna", female ,26.2,0,1,A/5 84675,12.35,,cherbourg
+1046,1,3,"Wright, Mr. Arthur",Male,33.9,0,0,A/5 45281,11.36,,Southampton
+1047,1,2,"Wilson, Mr. George",m,26.5,0,3,C.A. 78817,14.99,, S 
+1048,1,2,"Clark, Miss. María",female,7.0,0,0,PC 49412,12.70,, C 
+1049,1,3," Roberts, Mrs. Camila ",f,27.0,1,0,C.A. 56713,9.56,,s
+1050,0,3,"López, Mr. Thomas", male ,41.8,0,0,LINE 33033,25.68,,S
+814,0,1,"Roberts, Mr. Arthur",M,20.4,1,0,A/5 76360,72.93,,q
+517,1,2,"Martínez, Mrs. Helen",F,44.6,2,0,LINE 88959,15.20,,Southampton
+367,0,2,"Young, Mr. Samuel",m,32.7,0,0,C.A. 43263,23.34,,southampton
+238,1,2,"Walker, Mr. Arthur",male,9.2,0,0,C.A. 98645,38.80,,Southampton
+446,0,2,"Johnson, Mr. Alejandro",male,null,0,0,STON/O2 89656,33.52,,Southampton
+647,0,3,"Young, Mrs. Sofía",FEMALE,N/A,0,0,SOTON 79437,13.72,,southampton
+1032,0,3,"Wilson, Mr. George",Male,29.2,0,0,W./C. 87667,18.62,,southampton
+841,1,1,"López, Miss. Mary",F,24.3,0,0,STON/O2 31618,104.30,, C 
+577,1,3,"Johnson, Mr. William",m,30.9,1,0,SOTON 86230,7.20,,S
+79,1,1,"Martínez, Mr. Charles",MALE,null,0,0,A/5 52087,95.81,, Q 
+227,1,2,"Clark, Mrs. Elizabeth",F,N/A,0,0,LINE 33930,17.34,,s
+483,0,3,"Roberts, Mr. John",M,,0,1,STON/O2 87226,11.56,,s
+236,1,3,"Taylor, Mrs. Alice",FEMALE,,0,0,LINE 16298,5.90,,Q
+986,0,3,"King, Miss. Edith",FEMALE,null,0,0,PC 10680,15.52,,
+812,0,3,"Hernández, Mr. William",MALE,14.3,0,0,W./C. 85861,8.66,, C 
+40,1,3,"Thomas, Mr. Alejandro",MALE,49.0,0,0,STON/O2 99903,20.75,,S
+867,0,2,"Wright, Miss. Elizabeth",f,18.4,2,0,STON/O2 35376,35.13,,Queenstown
+335,1,3,"Smith, Mrs. Margaret",f,47.6,1,0,W./C. 98814,16.03,,Queenstown
+244,0,3,"Evans, Mr. Miguel", male ,null,0,0,W./C. 69797,25.26,, S 
+15,0,3,"García, Mr. Charles",Male,0.3,0,4,A/5 77528,13.75,,Southampton
+323,0,2,"Young, Mrs. Anna",f,25.7,0,1,SOTON 84716,18.71,,c
+517,1,2,"Martínez, Mrs. Helen",F,44.6,2,0,LINE 88959,15.20,,Southampton
+122,1,3,"Hall, Mrs. Edith", female ,N/A,0,3,PC 62471,12.40,,C
+965,0,3,"Martínez, Mr. Miguel",m,-3,1,0,W./C. 25721,11.93,,Queenstown
+4,1,3,"Clark, Mrs. María",female,30.4,1,1,LINE 40522,9.30,,Southampton
+791,0,1,"Davies, Mr. Carlos", male ,unknown,0,0,SOTON 93822,50.16,,Q
+1022,0,1st,"Ramírez, Mr. Luis",MALE,34.4,2,0,A/5 70226,33.01,,southampton
+32,1,3,"Green, Miss. Anna",f,7.9,1,0,PC 83383,8.56,, S 
