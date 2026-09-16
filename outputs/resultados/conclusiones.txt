@@ -1,0 +1,4 @@
+- Supervivencia total: 44.38%.
+- Mayor supervivencia por sexo: female (72.85%).
+- Clase con mayor supervivencia: 1 (54.35%).
+- Grupo de edad con mayor supervivencia: Niño (56.59%).

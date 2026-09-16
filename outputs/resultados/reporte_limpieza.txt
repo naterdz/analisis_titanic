@@ -1,0 +1,7 @@
+Filas iniciales: 1078
+Duplicados eliminados: 28
+Filas finales: 1050
+Age corregidos/imputados: 221
+Fare corregidos/imputados: 6
+SibSp corregidos/imputados: 7
+Parch corregidos/imputados: 14
